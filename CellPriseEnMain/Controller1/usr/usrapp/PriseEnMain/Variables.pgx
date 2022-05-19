@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="Variables">
+    <Code><![CDATA[begin
+  jInit = {0,0,0,0,0,0}
+  jDest = {0,90,-90,0,0,0}
+  pCarre1 = {{0,600,500,0,0,0}, {sfree, efree, wfree}}
+  pCarre2 = {{-500,0,500,0,0,0}, {sfree, efree, wfree}}
+  pCarre3 = {{0,-500,500,0,0,0}, {sfree, efree, wfree}}
+  pCarre4 = {{500,0,500,0,0,0}, {sfree, efree, wfree}}
+end]]></Code>
+  </Program>
+</Programs>

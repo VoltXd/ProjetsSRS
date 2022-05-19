@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalController xmlns="http://www.staubli.com/robotics/controller/1">
+  <Version>s8.10.3Cs9_BS2093</Version>
+  <Properties>
+    <Property type="SRS.VAL3Studio.Services.RobotSkinControllerProperty">
+      <RobotSkin xmlns="http://www.staubli.com/robotics/robotskincontrollerproperty/1">TX2TOUCH_90_PRESERIAL-HB-WS</RobotSkin>
+    </Property>
+  </Properties>
+  <Target hostname="192.168.0.254" name="Default2">
+    <Context type="RemoteConnection" port="5653" username="default" password="eONkJR7X9icoM0CDJEIJTg==" />
+    <Context type="WebRemoteMaintenance" port="443" username="default" password="eONkJR7X9icoM0CDJEIJTg==" />
+    <Context type="VncRemoteMaintenance" port="5900" username="default" password="eONkJR7X9icoM0CDJEIJTg==" />
+  </Target>
+</LocalController>

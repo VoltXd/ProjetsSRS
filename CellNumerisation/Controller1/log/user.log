@@ -1,0 +1,27 @@
+﻿{"entry":{"date":"2022-05-19T13:04:11","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-05-19T13:18:50","ts":"879.073074700","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"f55f488b65bc3cecfe"}
+{"entry":{"date":"2022-05-19T13:20:23","ts":"971.951987900","type":"msg","lvl":"WARN","id":"0x5401","val":"Application has ended, pending motion was cancelled."},"hash":"bf1c79c4baa73c370d"}
+{"entry":{"date":"2022-05-19T13:20:23","ts":"971.952057600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"c52228a499a83ed0e1"}
+{"entry":{"date":"2022-05-19T13:20:23","ts":"972.336472600","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File Deplacements.pgx-line 3) '{0,0,0,0,0,0}' : Ambiguous expression"},"hash":"9c5274eea6ce88d4df"}
+{"entry":{"val":"The previous message appeared %d time(s)","data":[{"val":1}],"date":"2022-05-19T13:21:46","ts":"978.094447500","type":"key","lvl":"INFO","id":"0x4A03"},"hash":"97e255f8a15ba1e480"}
+{"entry":{"date":"2022-05-19T13:21:46","ts":"1055.497885300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"5846b3b3cfde911fa4"}
+{"entry":{"date":"2022-05-19T13:22:04","ts":"1072.834094299","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"4f33c6e2d884422dd0"}
+{"entry":{"date":"2022-05-19T13:22:23","ts":"1091.577368199","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"e18ce6082031261bd7"}
+{"entry":{"date":"2022-05-19T13:22:27","ts":"1096.048363800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"bba3c040d7dedf2571"}
+{"entry":{"date":"2022-05-19T13:22:44","ts":"1113.166521199","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"d0ec1d7e3f52cbc96c"}
+{"entry":{"date":"2022-05-19T13:22:48","ts":"1116.956545800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"d90bcb4bf3a5995949"}
+{"entry":{"date":"2022-05-19T13:40:09","ts":"2158.526684500","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"7761029f12cf019aa7"}
+{"entry":{"date":"2022-05-19T13:45:09","ts":"2457.742067100","type":"msg","lvl":"WARN","id":"0x5401","val":"Application has ended, pending motion was cancelled."},"hash":"648b20f7d2bd188904"}
+{"entry":{"date":"2022-05-19T13:45:09","ts":"2457.757983100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"b4a90484b77a7c13ea"}
+{"entry":{"date":"2022-05-19T13:45:09","ts":"2458.111742600","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File InitVariables.pgx-line 4) '{{50,50,950,0,0,0}, sfree, efree, wfree}' : no type found that matches expression "},"hash":"c31a35405ae345a8ee"}
+{"entry":{"date":"2022-05-19T13:45:09","ts":"2458.112173400","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File InitVariables.pgx-line 8) '{{597.67, 50, -272.68,-180,0,-180}, sfree, efree, wfree}' : no type found that matches expression "},"hash":"82f2e28cdc2c89311c"}
+{"entry":{"date":"2022-05-19T13:45:12","ts":"2460.883816199","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File InitVariables.pgx-line 4) '{{50,50,950,0,0,0}, sfree, efree, wfree}' : no type found that matches expression "},"hash":"95cfe75fb4e0c445ef"}
+{"entry":{"date":"2022-05-19T13:45:12","ts":"2460.884100600","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File InitVariables.pgx-line 8) '{{597.67, 50, -272.68,-180,0,-180}, sfree, efree, wfree}' : no type found that matches expression "},"hash":"ff11603bd060d9c6f1"}
+{"entry":{"date":"2022-05-19T13:47:02","ts":"2571.084466700","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"7e43bb76055c138e26"}
+{"entry":{"date":"2022-05-19T13:47:21","ts":"2589.564750600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"8b78a0caeebdb33ef0"}
+{"entry":{"date":"2022-05-19T13:47:33","ts":"2602.492003000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"85ea541ca803d24197"}
+{"entry":{"date":"2022-05-19T13:47:42","ts":"2610.663957700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"6dfb2c43edbcd37579"}
+{"entry":{"date":"2022-05-19T13:48:00","ts":"2628.658052200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"2153da8df182a641a2"}
+{"entry":{"date":"2022-05-19T13:48:10","ts":"2638.687955300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"da1a4c51e279847816"}
+{"entry":{"date":"2022-05-19T13:48:23","ts":"2651.896510100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"b078062f3dcbcfedc6"}
+{"entry":{"date":"2022-05-19T13:49:00","ts":"2689.019102500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"4cf136b4d5c983c9bb"}

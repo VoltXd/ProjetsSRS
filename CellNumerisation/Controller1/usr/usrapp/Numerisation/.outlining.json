@@ -1,0 +1,19 @@
+﻿{
+  "programs": [
+    {
+      "mode": 3,
+      "name": "start",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "InitVariables",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "Deplacements",
+      "nodes": []
+    }
+  ]
+}

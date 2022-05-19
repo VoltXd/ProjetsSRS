@@ -1,0 +1,443 @@
+﻿{"entry":{"date":"2022-05-18T10:44:17","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-05-18T11:05:57","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-05-18T11:06:45","ts":"47.759414399","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"65bdc47a00ab4c2d7f"}
+{"entry":{"date":"2022-05-18T11:07:17","ts":"79.730185000","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"425d0ba24514b5f0d1"}
+{"entry":{"date":"2022-05-18T11:07:17","ts":"79.745880299","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"6cad5fe50158976853"}
+{"entry":{"date":"2022-05-18T11:07:24","ts":"87.062789200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"ee3193b6c4e30a92e2"}
+{"entry":{"date":"2022-05-18T11:07:48","ts":"111.114692600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"8834ef6ac799a2fa98"}
+{"entry":{"date":"2022-05-18T11:07:48","ts":"111.114912799","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"2cc889a3e3b6682f8b"}
+{"entry":{"date":"2022-05-18T11:07:53","ts":"116.006260800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"3c7abf2554e370bb26"}
+{"entry":{"date":"2022-05-18T11:08:09","ts":"132.017438999","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"3315507b222821ad68"}
+{"entry":{"date":"2022-05-18T11:08:09","ts":"132.017655300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"f481875fddabb142fc"}
+{"entry":{"date":"2022-05-18T12:50:24","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-05-18T12:51:33","ts":"68.938174599","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"7bfd10a1daaf105651"}
+{"entry":{"date":"2022-05-18T12:56:28","ts":"364.259392500","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"e936099656bc38f257"}
+{"entry":{"date":"2022-05-18T12:56:28","ts":"364.274955199","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"64a6b501b4657c442b"}
+{"entry":{"date":"2022-05-18T12:56:28","ts":"364.606908700","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"4bb2d1f8afcaedf9c5"}
+{"entry":{"date":"2022-05-18T12:57:04","ts":"399.899620200","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"6104202feb02f716a0"}
+{"entry":{"date":"2022-05-18T12:57:04","ts":"399.899830900","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"f0ad2101da4fa4b6fd"}
+{"entry":{"date":"2022-05-18T12:57:35","ts":"431.272819300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"d8d3d7d7c8708f1dbc"}
+{"entry":{"date":"2022-05-18T12:57:51","ts":"447.661104699","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"7e3ebff13b48fe166c"}
+{"entry":{"date":"2022-05-18T12:57:51","ts":"447.661346100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"62036a9b52248d6f99"}
+{"entry":{"date":"2022-05-18T12:58:02","ts":"458.191192799","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"84ec5331569027beae"}
+{"entry":{"date":"2022-05-18T12:58:52","ts":"507.812373100","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"dd74c706e126361559"}
+{"entry":{"date":"2022-05-18T12:58:52","ts":"507.812610199","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"2d2d5a0c6222c0ac0a"}
+{"entry":{"date":"2022-05-18T13:02:18","ts":"714.473234600","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"9e02a8589f215b817e"}
+{"entry":{"date":"2022-05-18T13:03:57","ts":"813.374621699","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"833a44319400d77bfa"}
+{"entry":{"date":"2022-05-18T13:03:57","ts":"813.390606400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"530b57c851258df61a"}
+{"entry":{"date":"2022-05-18T13:04:06","ts":"822.188793300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"7ed757a7f66cde2e2d"}
+{"entry":{"date":"2022-05-18T13:04:49","ts":"865.563965100","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"659ce4a7dcccc85b46"}
+{"entry":{"date":"2022-05-18T13:04:49","ts":"865.579950500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"2af18e16c42fdb01f9"}
+{"entry":{"date":"2022-05-18T13:04:50","ts":"865.791219900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"edf140c4b776b048d0"}
+{"entry":{"date":"2022-05-18T13:05:16","ts":"892.193886800","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"b77756c9be84220594"}
+{"entry":{"date":"2022-05-18T13:05:16","ts":"892.194596200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"13dcd55558bbba5b1a"}
+{"entry":{"date":"2022-05-18T13:05:21","ts":"896.983542900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"510dcdf86e081bbc6f"}
+{"entry":{"date":"2022-05-18T13:05:53","ts":"929.324846900","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"74efc16af140599172"}
+{"entry":{"date":"2022-05-18T13:05:53","ts":"929.340451900","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"f7c5b427bb40ebf0a2"}
+{"entry":{"date":"2022-05-18T13:05:53","ts":"929.550807500","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"9de1d0c9b9481ce49a"}
+{"entry":{"date":"2022-05-18T13:06:12","ts":"948.302450100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"13e23ea3ac000e2095"}
+{"entry":{"date":"2022-05-18T13:06:45","ts":"981.748630600","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"0067cf7575c8ade9d8"}
+{"entry":{"date":"2022-05-18T13:07:11","ts":"1007.371513000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"fe6bf919e8d57d4e0c"}
+{"entry":{"date":"2022-05-18T13:07:59","ts":"1054.897697999","type":"msg","lvl":"ERROR","id":"0x5405","val":"(Fichier SimuDeplacement.pgx-ligne 2) '{0,0,0,0,0,0,0}' : aucun type ne correspond à cette expression."},"hash":"0e2e81605a5f88a474"}
+{"entry":{"date":"2022-05-18T13:12:23","ts":"1319.288598199","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"88459433518e8668d3"}
+{"entry":{"date":"2022-05-18T13:12:50","ts":"1345.894913500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"714d0f6c612b1282e5"}
+{"entry":{"date":"2022-05-18T13:18:18","ts":"1673.880825900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"5964004fc00f23b0d0"}
+{"entry":{"date":"2022-05-18T13:18:45","ts":"1701.114413300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"ac4f03db0396be0b94"}
+{"entry":{"date":"2022-05-18T13:19:12","ts":"1728.608689699","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"399f1ea6a3852c1a6c"}
+{"entry":{"date":"2022-05-18T13:19:40","ts":"1755.865287499","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"3f18a2a82d2123b872"}
+{"entry":{"date":"2022-05-18T13:21:53","ts":"1889.062597900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"2e28dd7129c2c13895"}
+{"entry":{"date":"2022-05-18T13:22:12","ts":"1908.392160900","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"07fe7d1b1e19442e13"}
+{"entry":{"date":"2022-05-18T13:22:12","ts":"1908.407914700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"7daf505b2193aff04d"}
+{"entry":{"date":"2022-05-18T13:22:18","ts":"1913.925530800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"215d56f2b964e6bead"}
+{"entry":{"date":"2022-05-18T13:22:27","ts":"1923.729665500","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"5ae9f0c2ee6befab40"}
+{"entry":{"date":"2022-05-18T13:22:27","ts":"1923.729873499","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"b316d71f055ad9525d"}
+{"entry":{"date":"2022-05-18T13:22:34","ts":"1929.885971800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"5d81fca2ed87b7ddd1"}
+{"entry":{"date":"2022-05-18T13:22:48","ts":"1944.713371700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"efed00775422f02f7a"}
+{"entry":{"date":"2022-05-18T13:25:47","ts":"2123.708862300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"e3b647f72fde8bf2c9"}
+{"entry":{"date":"2022-05-18T13:26:14","ts":"2150.003827100","type":"msg","lvl":"INFO","id":"0x5465","val":"Finished!"},"hash":"106aa2407614570b8b"}
+{"entry":{"date":"2022-05-18T13:26:14","ts":"2150.004727100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"ae5079b2cf8658f485"}
+{"entry":{"date":"2022-05-18T13:28:13","ts":"2269.594985799","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"61261639089fbf38f6"}
+{"entry":{"date":"2022-05-18T13:28:33","ts":"2289.424652200","type":"msg","lvl":"INFO","id":"0x5465","val":"Finished!\\nTest"},"hash":"ddfb0142be581ebdda"}
+{"entry":{"date":"2022-05-18T13:28:33","ts":"2289.425554300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"c8b37522a8a6db0bb0"}
+{"entry":{"date":"2022-05-18T13:30:43","ts":"2419.486142700","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"2503ea52619202537d"}
+{"entry":{"date":"2022-05-18T13:31:04","ts":"2440.148456400","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"cb3e65a690cc38a41f"}
+{"entry":{"date":"2022-05-18T13:31:04","ts":"2440.149363800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"ce6a5cd8ce4fa7dfd1"}
+{"entry":{"date":"2022-05-18T13:31:26","ts":"2462.198897300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"7f44b830c9c0fc3533"}
+{"entry":{"date":"2022-05-18T13:31:45","ts":"2480.937465700","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"86404b85e0234f603a"}
+{"entry":{"date":"2022-05-18T13:31:45","ts":"2480.938402799","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"04fa98b32ad77b1afe"}
+{"entry":{"date":"2022-05-18T13:31:51","ts":"2487.662656400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"627a02dcbd5e157081"}
+{"entry":{"date":"2022-05-18T13:32:10","ts":"2506.555963800","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"da9653574a02190f59"}
+{"entry":{"date":"2022-05-18T13:32:10","ts":"2506.556892800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"b77e7181b411587d8a"}
+{"entry":{"date":"2022-05-18T13:33:40","ts":"2596.243387700","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"fcb818466028ed0a3d"}
+{"entry":{"date":"2022-05-18T13:34:01","ts":"2617.170610300","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"18dc99d016adb9cb90"}
+{"entry":{"date":"2022-05-18T13:34:14","ts":"2630.418530800","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"e6b0d1e538123977c2"}
+{"entry":{"date":"2022-05-18T13:34:14","ts":"2630.434135900","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"266d1715b9f2c284b2"}
+{"entry":{"date":"2022-05-18T13:36:57","ts":"2793.667886900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"80f1f22b0dacb83cae"}
+{"entry":{"date":"2022-05-18T13:37:22","ts":"2818.373730399","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"d509e7b7f5d676ddb6"}
+{"entry":{"date":"2022-05-18T13:37:22","ts":"2818.374650799","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"3a30fe5e84037e10e6"}
+{"entry":{"date":"2022-05-18T13:37:24","ts":"2820.510425300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"58ea2cf96aae196b1e"}
+{"entry":{"date":"2022-05-18T13:37:42","ts":"2838.539438600","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"1a266168dfcdf61033"}
+{"entry":{"date":"2022-05-18T13:37:42","ts":"2838.540018400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"6bfe685ba2519782ca"}
+{"entry":{"date":"2022-05-18T13:42:17","ts":"3112.987547900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"db42e7797a1b4a015f"}
+{"entry":{"date":"2022-05-18T13:42:20","ts":"3116.052505900","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"3d5c7a6897579f8709"}
+{"entry":{"date":"2022-05-18T13:42:20","ts":"3116.053407599","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"48622c4ed0961579fe"}
+{"entry":{"date":"2022-05-18T13:47:16","ts":"3412.242280300","type":"msg","lvl":"ERROR","id":"0x5405","val":"(Fichier start.pgx-ligne 3) 'IO' : sous-programme indéfini"},"hash":"4e5addf4be9443ebca"}
+{"entry":{"date":"2022-05-18T13:47:49","ts":"3444.844962300","type":"msg","lvl":"ERROR","id":"0x5405","val":"(Fichier Variables.pgx-ligne 4) '{1,0,0}' : aucun type ne correspond à cette expression."},"hash":"9d075124b324b2617a"}
+{"entry":{"date":"2022-05-18T13:47:49","ts":"3444.845189800","type":"msg","lvl":"ERROR","id":"0x5405","val":"(Fichier Variables.pgx-ligne 5) '{0,0,1}' : aucun type ne correspond à cette expression."},"hash":"607d42fe6a810591f0"}
+{"entry":{"date":"2022-05-18T13:54:03","ts":"3819.057972699","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"1418943bd8d9ff40c8"}
+{"entry":{"date":"2022-05-18T13:54:25","ts":"3841.221648100","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"f69cde1910c4a919a5"}
+{"entry":{"date":"2022-05-18T13:54:25","ts":"3841.224426000","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Arc de cercle: l'orientation est différente entre le point de départ, le point intermédiare et le point final. La direction du mouvement est indéterminée.. PriseEnMain~. "},"hash":"e6566c452aa4171ac4"}
+{"entry":{"date":"2022-05-18T13:54:25","ts":"3841.224450500","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 553 Arc de cercle: l'orientation est différente entre le point de départ, le point intermédiare et le point final. La direction du mouvement est indéterminée.. PriseEnMain~. "},"hash":"bfc47e3249f18b8d3d"}
+{"entry":{"date":"2022-05-18T13:55:12","ts":"3888.345479500","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"67fa88a2b6f5625f74"}
+{"entry":{"date":"2022-05-18T13:55:12","ts":"3888.361322800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"1454a681c2933d65a5"}
+{"entry":{"date":"2022-05-18T13:55:12","ts":"3888.570566999","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"7fc2fbf4906c70facf"}
+{"entry":{"date":"2022-05-18T13:55:21","ts":"3896.848608999","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"832b8c5e9d28c82c91"}
+{"entry":{"date":"2022-05-18T13:55:21","ts":"3896.848810000","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Arc de cercle: l'orientation est différente entre le point de départ, le point intermédiare et le point final. La direction du mouvement est indéterminée.. PriseEnMain~. "},"hash":"d65eaa8de8f7ef3f44"}
+{"entry":{"date":"2022-05-18T13:55:21","ts":"3896.848822000","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 553 Arc de cercle: l'orientation est différente entre le point de départ, le point intermédiare et le point final. La direction du mouvement est indéterminée.. PriseEnMain~. "},"hash":"662af66f0139466208"}
+{"entry":{"date":"2022-05-18T13:57:27","ts":"4022.957376000","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"8747d8844c987cf59f"}
+{"entry":{"date":"2022-05-18T13:57:27","ts":"4022.973062399","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"2e61d3bb0518abe30b"}
+{"entry":{"date":"2022-05-18T13:57:27","ts":"4023.183334000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"e9ebb2365ca265b8ea"}
+{"entry":{"date":"2022-05-18T13:57:36","ts":"4032.476249600","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"8ee0b221d882a06e40"}
+{"entry":{"date":"2022-05-18T13:57:36","ts":"4032.476644999","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"183054788ed4600af8"}
+{"entry":{"date":"2022-05-18T13:57:36","ts":"4032.476662100","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"962ee1d0dd67c3ab4b"}
+{"entry":{"date":"2022-05-18T14:02:08","ts":"4304.638877399","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"c9f2216001546af82e"}
+{"entry":{"date":"2022-05-18T14:02:08","ts":"4304.653842300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"2b6c02368dfcab581f"}
+{"entry":{"date":"2022-05-18T14:02:09","ts":"4304.863374100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"d5b939383895e9917c"}
+{"entry":{"date":"2022-05-18T14:02:18","ts":"4314.340742900","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"f08b1f2d734e977ea6"}
+{"entry":{"date":"2022-05-18T14:02:18","ts":"4314.341112100","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"2b3c147b99caa7b1ee"}
+{"entry":{"date":"2022-05-18T14:02:18","ts":"4314.341129400","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"3496864a3081ca22d2"}
+{"entry":{"date":"2022-05-18T14:03:27","ts":"4383.585634800","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"74061cfc96b77eac3a"}
+{"entry":{"date":"2022-05-18T14:03:27","ts":"4383.601347000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"eeae1a13c3edaafea5"}
+{"entry":{"date":"2022-05-18T14:03:28","ts":"4383.807246999","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"8cf5e605b30e24d931"}
+{"entry":{"date":"2022-05-18T14:03:32","ts":"4388.744043200","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"951196c44a998ac431"}
+{"entry":{"date":"2022-05-18T14:03:32","ts":"4388.744516699","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"fed672cd98846894fe"}
+{"entry":{"date":"2022-05-18T14:03:32","ts":"4388.744541600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"37c8ff38303f8c4cbe"}
+{"entry":{"date":"2022-05-18T14:03:50","ts":"4406.215043300","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"2af9f25b407f4f8b92"}
+{"entry":{"date":"2022-05-18T14:03:50","ts":"4406.215259500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"389bbbb00a758ffae9"}
+{"entry":{"date":"2022-05-18T14:03:53","ts":"4409.595949699","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"0c2f688a7ea5c491cb"}
+{"entry":{"date":"2022-05-18T14:03:57","ts":"4413.333054500","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"99341abc1562bf41e4"}
+{"entry":{"date":"2022-05-18T14:03:57","ts":"4413.333403000","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"2b4abfb1c1670c4983"}
+{"entry":{"date":"2022-05-18T14:03:57","ts":"4413.333419900","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"950a38933a4cc0d8dd"}
+{"entry":{"date":"2022-05-18T14:04:18","ts":"4434.100793900","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"e2497c6e297d537159"}
+{"entry":{"date":"2022-05-18T14:04:18","ts":"4434.116174400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"3dfa1339f8a6997301"}
+{"entry":{"date":"2022-05-18T14:04:18","ts":"4434.325466100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"e83b7f8fc4e77954b6"}
+{"entry":{"date":"2022-05-18T14:04:27","ts":"4443.678222800","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"ff80f1427317f74d29"}
+{"entry":{"date":"2022-05-18T14:04:27","ts":"4443.678574600","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"c1753ed1280271c740"}
+{"entry":{"date":"2022-05-18T14:04:27","ts":"4443.678591400","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"d7cde2f0298a839782"}
+{"entry":{"date":"2022-05-18T14:07:09","ts":"4605.672529000","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"b76a47ead3204c093e"}
+{"entry":{"date":"2022-05-18T14:07:09","ts":"4605.688197200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"2b6c0e97794d597b96"}
+{"entry":{"date":"2022-05-18T14:07:10","ts":"4605.873469000","type":"msg","lvl":"ERROR","id":"0x5405","val":"(Fichier Deplacement.pgx-ligne 9) '-' : opérateur unaire invalide ou non supporté pour ce type de donnée"},"hash":"1fd988311420cecc95"}
+{"entry":{"val":"The previous message appeared %d time(s)","data":[{"val":1}],"date":"2022-05-18T14:09:20","ts":"4607.845806800","type":"key","lvl":"INFO","id":"0x4A03"},"hash":"985c700b3749326abb"}
+{"entry":{"date":"2022-05-18T14:09:20","ts":"4736.012537800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"00c3ce596745d97ea0"}
+{"entry":{"date":"2022-05-18T14:55:36","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-05-18T14:55:59","ts":"22.802440899","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"86b937f66d69acf6a9"}
+{"entry":{"date":"2022-05-18T14:56:08","ts":"32.458576800","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"e466be587b93c9ecac"}
+{"entry":{"date":"2022-05-18T14:56:08","ts":"32.460203699","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"34c3b2a74e196f8821"}
+{"entry":{"date":"2022-05-18T14:56:08","ts":"32.460217099","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"e3ea10a8e0480660a9"}
+{"entry":{"date":"2022-05-18T15:27:10","ts":"1894.130844500","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"783a83153d1e4221e8"}
+{"entry":{"date":"2022-05-18T15:27:10","ts":"1894.146869000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"74e3b059435958111d"}
+{"entry":{"date":"2022-05-18T15:27:10","ts":"1894.500258500","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"dc300458b75698d4b1"}
+{"entry":{"date":"2022-05-18T15:27:21","ts":"1904.757233499","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"d82848786fb178e5bd"}
+{"entry":{"date":"2022-05-18T15:27:21","ts":"1904.757589100","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"c3f826683a0cbbfbe3"}
+{"entry":{"date":"2022-05-18T15:27:21","ts":"1904.757605900","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"81859046acfa769fb3"}
+{"entry":{"date":"2022-05-19T07:03:26","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-05-19T07:05:29","ts":"123.435279200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"5cc15b2e225d3637af"}
+{"entry":{"date":"2022-05-19T07:05:46","ts":"140.159365500","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"68da106fd36b16df1c"}
+{"entry":{"date":"2022-05-19T07:05:46","ts":"140.161352500","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"3c5fc05d9a5ee96b78"}
+{"entry":{"date":"2022-05-19T07:05:46","ts":"140.161359900","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"7694d2340812d8c826"}
+{"entry":{"date":"2022-05-19T07:07:13","ts":"226.904988100","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"05867a4b84a0017301"}
+{"entry":{"date":"2022-05-19T07:07:13","ts":"226.905214299","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"f8ef218387e45a5370"}
+{"entry":{"date":"2022-05-19T07:07:13","ts":"227.115309199","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"ffebd407a3476243b8"}
+{"entry":{"date":"2022-05-19T07:07:23","ts":"237.288157300","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"87a80cec7d9cab32a8"}
+{"entry":{"date":"2022-05-19T07:07:23","ts":"237.288385900","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"9c6fd500b269059920"}
+{"entry":{"date":"2022-05-19T07:07:23","ts":"237.288394300","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"10e04b02f5fc26d211"}
+{"entry":{"date":"2022-05-19T07:13:15","ts":"588.858886700","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"a3c037c2f37867f244"}
+{"entry":{"date":"2022-05-19T07:13:15","ts":"588.874742200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"4cd2541fcb93ecb229"}
+{"entry":{"date":"2022-05-19T07:13:15","ts":"589.084864700","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"c18fe1ba73bb3d137c"}
+{"entry":{"date":"2022-05-19T07:13:24","ts":"598.171739700","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"c7a6f885afee556048"}
+{"entry":{"date":"2022-05-19T07:13:24","ts":"598.172131700","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"d6687414b91129132f"}
+{"entry":{"date":"2022-05-19T07:13:24","ts":"598.172149199","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"6fbc0e119dc131432f"}
+{"entry":{"date":"2022-05-19T07:16:13","ts":"767.313815200","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"a5dca60f0d23c7f522"}
+{"entry":{"date":"2022-05-19T07:16:13","ts":"767.329924100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"147f45044dc25d2a59"}
+{"entry":{"date":"2022-05-19T07:16:13","ts":"767.539626000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"76ad5f087460dd72af"}
+{"entry":{"date":"2022-05-19T07:16:46","ts":"800.091511900","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"791a5304b9e85c02eb"}
+{"entry":{"date":"2022-05-19T07:16:46","ts":"800.091720400","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"a293a6a38e53d15556"}
+{"entry":{"date":"2022-05-19T07:16:46","ts":"800.091728400","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"1db8d9aae54c43e282"}
+{"entry":{"date":"2022-05-19T07:21:54","ts":"1108.513698900","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"9aa0c1b5f34fac01a1"}
+{"entry":{"date":"2022-05-19T07:21:54","ts":"1108.528772700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"f38f069bb6e40336e7"}
+{"entry":{"date":"2022-05-19T07:21:54","ts":"1108.737702800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"c58e2f5a05067b732e"}
+{"entry":{"date":"2022-05-19T07:22:09","ts":"1123.732521200","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"79da8f28d620919e3d"}
+{"entry":{"date":"2022-05-19T07:22:09","ts":"1123.732757100","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"e0aa3d38dae40d3d36"}
+{"entry":{"date":"2022-05-19T07:22:09","ts":"1123.732765200","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"66dbb054dc80ac5cd4"}
+{"entry":{"date":"2022-05-19T07:22:32","ts":"1146.705395300","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"99f2a3964c3c4624f0"}
+{"entry":{"date":"2022-05-19T07:22:32","ts":"1146.721263400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"3c7fe2c7774ad18e1f"}
+{"entry":{"date":"2022-05-19T07:22:33","ts":"1146.932540800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"900a31e0578dbc0cf9"}
+{"entry":{"date":"2022-05-19T07:23:00","ts":"1174.503296500","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"a423fd399eb749104d"}
+{"entry":{"date":"2022-05-19T07:23:00","ts":"1174.557348200","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors des limites articulaires.. PriseEnMain~. "},"hash":"4a9fa34c02c41839ad"}
+{"entry":{"date":"2022-05-19T07:23:00","ts":"1174.557370400","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 531 Position cartésienne hors des limites articulaires.. PriseEnMain~. "},"hash":"e6745a54d3edbf08f7"}
+{"entry":{"date":"2022-05-19T07:23:23","ts":"1197.236187100","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"a169bf6c43ca9f01ab"}
+{"entry":{"date":"2022-05-19T07:23:23","ts":"1197.236417800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"7b1656e3d6dc2cca65"}
+{"entry":{"date":"2022-05-19T07:23:25","ts":"1199.432606100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"6addb0613c0390377f"}
+{"entry":{"date":"2022-05-19T07:23:30","ts":"1204.369199400","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"3ea6210f1402bfe09c"}
+{"entry":{"date":"2022-05-19T07:23:30","ts":"1204.371468200","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors des limites articulaires.. PriseEnMain~. "},"hash":"b55ed83de63d22eaaf"}
+{"entry":{"date":"2022-05-19T07:23:30","ts":"1204.371488900","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 531 Position cartésienne hors des limites articulaires.. PriseEnMain~. "},"hash":"c80b16603a3efda4cf"}
+{"entry":{"date":"2022-05-19T07:24:06","ts":"1240.332386100","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"f61fa99ffd32239155"}
+{"entry":{"date":"2022-05-19T07:24:06","ts":"1240.332767500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"ec634897e5ffbd9b91"}
+{"entry":{"date":"2022-05-19T07:24:06","ts":"1240.540141000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"0ad1df705e76d91b05"}
+{"entry":{"date":"2022-05-19T07:24:14","ts":"1248.741008500","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"88607cbd4846c1712f"}
+{"entry":{"date":"2022-05-19T07:24:14","ts":"1248.743076300","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors des limites articulaires.. PriseEnMain~. "},"hash":"d9583c6206ff6f3a49"}
+{"entry":{"date":"2022-05-19T07:24:14","ts":"1248.743087700","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 531 Position cartésienne hors des limites articulaires.. PriseEnMain~. "},"hash":"6108d0c751c9b72a8a"}
+{"entry":{"date":"2022-05-19T07:24:42","ts":"1276.132842600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"cb0e6fc2339ae8aecb"}
+{"entry":{"date":"2022-05-19T07:24:42","ts":"1276.148453800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"f7f186ce9b290b43a9"}
+{"entry":{"date":"2022-05-19T07:24:42","ts":"1276.468319400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"b386eb89d00f48d961"}
+{"entry":{"date":"2022-05-19T07:24:50","ts":"1284.697818500","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"17fc780b322bf82c9d"}
+{"entry":{"date":"2022-05-19T07:24:50","ts":"1284.758163700","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"02c2c4d63458e06ac8"}
+{"entry":{"date":"2022-05-19T07:24:50","ts":"1284.758174700","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"f65729036972765db6"}
+{"entry":{"date":"2022-05-19T07:27:02","ts":"1415.891018500","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"462bec32dc47fb9cb2"}
+{"entry":{"date":"2022-05-19T07:27:02","ts":"1415.907006300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"1b443255d3d341f9d9"}
+{"entry":{"date":"2022-05-19T07:27:02","ts":"1416.116091900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"8118ec61dd98155bf7"}
+{"entry":{"date":"2022-05-19T07:27:11","ts":"1425.066715700","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"956595b7f973fc2c6a"}
+{"entry":{"date":"2022-05-19T07:27:11","ts":"1425.174022900","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"3d028769e673779197"}
+{"entry":{"date":"2022-05-19T07:27:11","ts":"1425.174045200","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"99180a54a1d18686a7"}
+{"entry":{"date":"2022-05-19T07:27:47","ts":"1461.084766400","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"fa6500b83f3b70e886"}
+{"entry":{"date":"2022-05-19T07:27:47","ts":"1461.100689200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"fe4debaadb03c04ecc"}
+{"entry":{"date":"2022-05-19T07:27:47","ts":"1461.306876300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"ff474b4c5d41f82920"}
+{"entry":{"date":"2022-05-19T07:27:53","ts":"1466.878043000","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"d9868ba5a139ba5d69"}
+{"entry":{"date":"2022-05-19T07:27:53","ts":"1466.987290600","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"7966113424bb8c341c"}
+{"entry":{"date":"2022-05-19T07:27:53","ts":"1466.987301100","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"170f3f065578e0bb42"}
+{"entry":{"date":"2022-05-19T07:28:28","ts":"1502.480265700","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"6a23534a1d4a9f9ad6"}
+{"entry":{"date":"2022-05-19T07:28:28","ts":"1502.480461600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"bc1ae2338a9ffee6bd"}
+{"entry":{"date":"2022-05-19T07:28:28","ts":"1502.706043400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"ca877527b59c2cdbce"}
+{"entry":{"date":"2022-05-19T07:28:35","ts":"1508.780865400","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"1467b29978d5628fa2"}
+{"entry":{"date":"2022-05-19T07:28:35","ts":"1508.891412200","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position articulaire hors des limites logicielles.. PriseEnMain~. "},"hash":"df1c0c829c2876b1f4"}
+{"entry":{"date":"2022-05-19T07:28:35","ts":"1508.891422200","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Position articulaire hors des limites logicielles.. PriseEnMain~. "},"hash":"db8fcb4c74f3ef65b7"}
+{"entry":{"date":"2022-05-19T07:29:20","ts":"1554.317182400","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"af5aea2c35ad4e1822"}
+{"entry":{"date":"2022-05-19T07:29:20","ts":"1554.317424500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"b52b759e1a776a1cdb"}
+{"entry":{"date":"2022-05-19T07:29:24","ts":"1557.830380400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"d26af14d43538382bb"}
+{"entry":{"date":"2022-05-19T07:29:27","ts":"1561.621296700","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"fd04ebf62cf5dcaf86"}
+{"entry":{"date":"2022-05-19T07:29:27","ts":"1561.768913400","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position articulaire hors des limites logicielles.. PriseEnMain~. "},"hash":"5976bbbd46f04b3a3d"}
+{"entry":{"date":"2022-05-19T07:29:27","ts":"1561.768935100","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Position articulaire hors des limites logicielles.. PriseEnMain~. "},"hash":"2fa8ac5ac13562651c"}
+{"entry":{"date":"2022-05-19T07:29:55","ts":"1589.087046100","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"f4a6a3f4b9269ebcf2"}
+{"entry":{"date":"2022-05-19T07:29:55","ts":"1589.101958100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"e885f4e644723fd714"}
+{"entry":{"date":"2022-05-19T07:29:55","ts":"1589.311204500","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"ee6d2ec6db0a347c58"}
+{"entry":{"date":"2022-05-19T07:30:01","ts":"1594.830923700","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"7c6ee43ff57ab5fa55"}
+{"entry":{"date":"2022-05-19T07:30:02","ts":"1596.667409200","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"e52cec14c72edbe2cd"}
+{"entry":{"date":"2022-05-19T07:30:02","ts":"1596.667422100","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"46c2e5f0fb1436dcdb"}
+{"entry":{"date":"2022-05-19T07:31:18","ts":"1672.396933500","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"8a472cee62a41b2739"}
+{"entry":{"date":"2022-05-19T07:31:18","ts":"1672.412776800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"f2111d89f28e08cf41"}
+{"entry":{"date":"2022-05-19T07:31:18","ts":"1672.620324800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"9421a5f94e8c8a56ad"}
+{"entry":{"date":"2022-05-19T07:31:53","ts":"1707.242277900","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"aa4c20f1343ad011dd"}
+{"entry":{"date":"2022-05-19T07:31:53","ts":"1707.257584300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"9cc2fac381a5633457"}
+{"entry":{"date":"2022-05-19T07:31:53","ts":"1707.466924900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"53a6597e18bda3d968"}
+{"entry":{"date":"2022-05-19T07:31:58","ts":"1712.453775700","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"3f840037449fb92613"}
+{"entry":{"date":"2022-05-19T07:32:00","ts":"1714.588487900","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"263adb7f9fc144bc6b"}
+{"entry":{"date":"2022-05-19T07:32:00","ts":"1714.588510500","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"4a443777e18267ca66"}
+{"entry":{"date":"2022-05-19T07:32:04","ts":"1718.738971500","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"ef98e09f15a829a87f"}
+{"entry":{"date":"2022-05-19T07:32:04","ts":"1718.739191200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"064625c39b5680be83"}
+{"entry":{"date":"2022-05-19T07:32:10","ts":"1724.432339200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"98fa4f4d4f5c33cd5d"}
+{"entry":{"date":"2022-05-19T07:32:15","ts":"1729.472053900","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"8bdf992fbe5839cc65"}
+{"entry":{"date":"2022-05-19T07:32:17","ts":"1731.032405600","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"972b2864d13e09cf5d"}
+{"entry":{"date":"2022-05-19T07:32:17","ts":"1731.032416100","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"449b577511147e9500"}
+{"entry":{"date":"2022-05-19T07:32:54","ts":"1768.669782300","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"46e588d20fdeaf8e80"}
+{"entry":{"date":"2022-05-19T07:32:54","ts":"1768.670256700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"6d061ea7827216d235"}
+{"entry":{"date":"2022-05-19T07:32:55","ts":"1768.876849900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"a7baea09803ded5718"}
+{"entry":{"date":"2022-05-19T07:33:02","ts":"1776.575853200","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"05ea30b326fb4c5609"}
+{"entry":{"date":"2022-05-19T07:33:04","ts":"1778.384521000","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"491b0556b6dd2279ec"}
+{"entry":{"date":"2022-05-19T07:33:04","ts":"1778.384534600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"166623078bd2c7145d"}
+{"entry":{"date":"2022-05-19T07:33:39","ts":"1813.083531200","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"78c59a8dc5b377297f"}
+{"entry":{"date":"2022-05-19T07:33:39","ts":"1813.098199800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"be714bb5dda274a32e"}
+{"entry":{"date":"2022-05-19T07:33:39","ts":"1813.308117000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"b9178c843d5d8567e7"}
+{"entry":{"date":"2022-05-19T07:33:46","ts":"1820.607294600","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"9d9303106778188427"}
+{"entry":{"date":"2022-05-19T07:33:48","ts":"1822.356392600","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. La trajectoire cartésienne conduit un axe multi-tour hors de sa plage.. PriseEnMain~. "},"hash":"9e18e392f9f4480a98"}
+{"entry":{"date":"2022-05-19T07:33:48","ts":"1822.356408600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 544 La trajectoire cartésienne conduit un axe multi-tour hors de sa plage.. PriseEnMain~. "},"hash":"a00b180927e999725b"}
+{"entry":{"date":"2022-05-19T07:34:17","ts":"1851.304910200","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"78d0bebf87c8666c9f"}
+{"entry":{"date":"2022-05-19T07:34:17","ts":"1851.320753800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"7d82a54922fcd35732"}
+{"entry":{"date":"2022-05-19T07:34:17","ts":"1851.527106200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"a946141bab3db8bc9d"}
+{"entry":{"date":"2022-05-19T07:34:26","ts":"1860.171153500","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"e847d452f02763c28e"}
+{"entry":{"date":"2022-05-19T07:34:28","ts":"1862.042763700","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. La trajectoire cartésienne conduit un axe multi-tour hors de sa plage.. PriseEnMain~. "},"hash":"01aa2a006590730608"}
+{"entry":{"date":"2022-05-19T07:34:28","ts":"1862.042788500","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 544 La trajectoire cartésienne conduit un axe multi-tour hors de sa plage.. PriseEnMain~. "},"hash":"8151d3932bbf986b52"}
+{"entry":{"date":"2022-05-19T07:35:23","ts":"1917.757113500","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"cf3ed625683d326252"}
+{"entry":{"date":"2022-05-19T07:35:23","ts":"1917.772936500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"c94ebe9efd81008086"}
+{"entry":{"date":"2022-05-19T07:35:24","ts":"1917.981980600","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"a28aac576e57d1f956"}
+{"entry":{"date":"2022-05-19T07:35:31","ts":"1925.435659999","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"2494b2bef488e6e676"}
+{"entry":{"date":"2022-05-19T07:35:33","ts":"1927.372633700","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"e3d1426a8c704644db"}
+{"entry":{"date":"2022-05-19T07:35:33","ts":"1927.372646000","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"923f528f63be8a67c4"}
+{"entry":{"date":"2022-05-19T07:38:23","ts":"2097.084067200","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"c71c6b5078d0949c45"}
+{"entry":{"date":"2022-05-19T07:38:23","ts":"2097.084308000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"7208f0be0748f5b0a6"}
+{"entry":{"date":"2022-05-19T07:38:23","ts":"2097.293400499","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"128d2de143e248c7ca"}
+{"entry":{"date":"2022-05-19T07:38:33","ts":"2107.101423799","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"f349d4a4ae4656be83"}
+{"entry":{"date":"2022-05-19T07:38:35","ts":"2109.095784599","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"f2e2262b49c12be94d"}
+{"entry":{"date":"2022-05-19T07:38:35","ts":"2109.095795299","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"9080aceb3be3229d92"}
+{"entry":{"date":"2022-05-19T07:39:26","ts":"2160.328900799","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"efa3712134a633697a"}
+{"entry":{"date":"2022-05-19T07:39:26","ts":"2160.329274299","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"9715f71ac9e1ac4497"}
+{"entry":{"date":"2022-05-19T07:39:26","ts":"2160.542714400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"ec0abfc3499523ebfa"}
+{"entry":{"date":"2022-05-19T07:39:32","ts":"2166.323997300","type":"msg","lvl":"CRITICAL","id":"0x5465","val":"Danger! Le robot devient fou!"},"hash":"97b6dce8ad55fa28cb"}
+{"entry":{"date":"2022-05-19T07:39:34","ts":"2168.243069599","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"83ac3e14af89f6c5c1"}
+{"entry":{"date":"2022-05-19T07:39:34","ts":"2168.243081499","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"147d7e2e2abb06f554"}
+{"entry":{"date":"2022-05-19T07:40:30","ts":"2224.064366600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"60af9dfcceb553bf51"}
+{"entry":{"date":"2022-05-19T07:40:30","ts":"2224.064599600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"7d63dd39d31b8a77f9"}
+{"entry":{"date":"2022-05-19T07:40:37","ts":"2231.695294899","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"3e735ffe791a86bcd6"}
+{"entry":{"date":"2022-05-19T07:40:47","ts":"2241.659986899","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"2904c427b059ff2bde"}
+{"entry":{"date":"2022-05-19T07:40:47","ts":"2241.659997800","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"b2ed433ddef3040d58"}
+{"entry":{"date":"2022-05-19T07:41:19","ts":"2273.760669000","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"b2f7b77f0e8da0feda"}
+{"entry":{"date":"2022-05-19T07:41:20","ts":"2273.776690800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"5fe66830f058d518c7"}
+{"entry":{"date":"2022-05-19T07:41:20","ts":"2273.985724200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"ddc552d675287422f8"}
+{"entry":{"date":"2022-05-19T07:41:29","ts":"2283.019879900","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"7dd96c54352e00ea48"}
+{"entry":{"date":"2022-05-19T07:41:29","ts":"2283.019890600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"5c97ba825d360743fb"}
+{"entry":{"date":"2022-05-19T07:43:13","ts":"2387.473095200","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"dfe5db71a82c8b9606"}
+{"entry":{"date":"2022-05-19T07:43:13","ts":"2387.473330300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"7269b2c7093a667635"}
+{"entry":{"date":"2022-05-19T07:43:14","ts":"2388.597079100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"de3184124b4f9fb853"}
+{"entry":{"date":"2022-05-19T07:43:20","ts":"2394.694964800","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"9e4c13f5b48ebf9d86"}
+{"entry":{"date":"2022-05-19T07:43:20","ts":"2394.694976100","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"3b76f1885b946af491"}
+{"entry":{"date":"2022-05-19T07:45:04","ts":"2497.908758199","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"2189c65a42664406b6"}
+{"entry":{"date":"2022-05-19T07:45:04","ts":"2497.908985499","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"0d650cbaf4ea8ded6a"}
+{"entry":{"date":"2022-05-19T07:45:05","ts":"2498.887444799","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"67890206cfecdfa5f5"}
+{"entry":{"date":"2022-05-19T07:45:10","ts":"2504.714279300","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"1fa58e7deb9efb9143"}
+{"entry":{"date":"2022-05-19T07:45:10","ts":"2504.714301400","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"3125490b01c7bb74f7"}
+{"entry":{"date":"2022-05-19T07:46:16","ts":"2570.711417700","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"c1f119e946227ae331"}
+{"entry":{"date":"2022-05-19T07:46:16","ts":"2570.727276200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"939bd2ce5405544cc7"}
+{"entry":{"date":"2022-05-19T07:46:17","ts":"2570.933956099","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"ea740381cbe7202a27"}
+{"entry":{"date":"2022-05-19T07:46:30","ts":"2584.140504799","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"b67f0776024dda9cc5"}
+{"entry":{"date":"2022-05-19T07:46:30","ts":"2584.140533600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"26700f24475fd31a06"}
+{"entry":{"date":"2022-05-19T07:46:52","ts":"2606.176253899","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"d29de2e2234b697389"}
+{"entry":{"date":"2022-05-19T07:46:52","ts":"2606.191213600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"299d879da2e2695f27"}
+{"entry":{"date":"2022-05-19T07:46:52","ts":"2606.397660000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"c0083572d731bbf36b"}
+{"entry":{"date":"2022-05-19T07:46:59","ts":"2613.411417999","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"f176a0507a537f1e98"}
+{"entry":{"date":"2022-05-19T07:46:59","ts":"2613.411440500","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"5bf3b9a4ed5b37862c"}
+{"entry":{"date":"2022-05-19T07:47:28","ts":"2642.192888700","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"f6c85b918dde6320a3"}
+{"entry":{"date":"2022-05-19T07:47:28","ts":"2642.207789000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"a0ed74265b2cf80018"}
+{"entry":{"date":"2022-05-19T07:47:28","ts":"2642.416901900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"64182163cabbe20dce"}
+{"entry":{"date":"2022-05-19T07:47:36","ts":"2649.908934500","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"1580fc852c98ca5438"}
+{"entry":{"date":"2022-05-19T07:47:36","ts":"2649.908956400","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"d87868e758615ac471"}
+{"entry":{"date":"2022-05-19T07:47:39","ts":"2653.661734600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"1e2ce5c507bc52aed4"}
+{"entry":{"date":"2022-05-19T07:47:39","ts":"2653.661964900","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"1eafdd9add009f4bd6"}
+{"entry":{"date":"2022-05-19T07:47:41","ts":"2655.667173000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"ebc6ba827b2ecf330a"}
+{"entry":{"date":"2022-05-19T07:47:46","ts":"2660.750068200","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"a62cafe553c63b01b4"}
+{"entry":{"date":"2022-05-19T07:47:46","ts":"2660.750079900","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Position cartésienne hors de l'espace de travail.. PriseEnMain~. "},"hash":"ad2597057393292959"}
+{"entry":{"date":"2022-05-19T07:48:22","ts":"2695.795724899","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"e7c6004f54082d3134"}
+{"entry":{"date":"2022-05-19T07:48:22","ts":"2695.796082000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"5068b15f347163b8a8"}
+{"entry":{"date":"2022-05-19T07:48:22","ts":"2696.019582200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"544c4588822341887a"}
+{"entry":{"date":"2022-05-19T07:48:32","ts":"2706.082617799","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"4488a29d52d00ec921"}
+{"entry":{"date":"2022-05-19T07:48:32","ts":"2706.082639700","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"c74b745a19780b9518"}
+{"entry":{"date":"2022-05-19T07:49:42","ts":"2776.475273799","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"40383021267ca1519d"}
+{"entry":{"date":"2022-05-19T07:49:42","ts":"2776.475508700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"2f6c803422e2b86d2b"}
+{"entry":{"date":"2022-05-19T07:49:44","ts":"2778.675027100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"8e0b138f7974346a7c"}
+{"entry":{"date":"2022-05-19T07:49:56","ts":"2790.167207499","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"efc9d493b42f6aa8f5"}
+{"entry":{"date":"2022-05-19T07:49:56","ts":"2790.167434700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"c400f4f1c44d479b7c"}
+{"entry":{"date":"2022-05-19T07:49:57","ts":"2791.745076500","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"90988bfd11e89d80e5"}
+{"entry":{"date":"2022-05-19T07:50:15","ts":"2809.194197099","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"def2ff86a116d508d7"}
+{"entry":{"date":"2022-05-19T07:50:15","ts":"2809.194207300","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"f9ae8112f5b78f097f"}
+{"entry":{"date":"2022-05-19T07:52:32","ts":"2946.292397800","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"7cb01effdf002c8f90"}
+{"entry":{"date":"2022-05-19T07:52:32","ts":"2946.292680000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"e5c9febf060362a447"}
+{"entry":{"date":"2022-05-19T07:52:32","ts":"2946.500747100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"7eb5bd49ca0eb1d4d9"}
+{"entry":{"date":"2022-05-19T07:52:43","ts":"2957.550697800","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"611940fb7704a6750c"}
+{"entry":{"date":"2022-05-19T07:52:43","ts":"2957.550734600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"5bd2f26ae068c1481c"}
+{"entry":{"date":"2022-05-19T07:52:59","ts":"2973.350386800","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"12900c92d5c91e9b83"}
+{"entry":{"date":"2022-05-19T07:52:59","ts":"2973.366418800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"6c99fa742938e2e3b1"}
+{"entry":{"date":"2022-05-19T07:52:59","ts":"2973.574338900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"fc6d62b77b9588240f"}
+{"entry":{"date":"2022-05-19T07:53:09","ts":"2983.386770800","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"1c9223478e9bf264f7"}
+{"entry":{"date":"2022-05-19T07:53:09","ts":"2983.386782400","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"76861d5958938f9352"}
+{"entry":{"date":"2022-05-19T07:53:26","ts":"3000.010302100","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"b51929fc71deb74b8e"}
+{"entry":{"date":"2022-05-19T07:53:26","ts":"3000.026101300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"c81a60569033893eca"}
+{"entry":{"date":"2022-05-19T07:53:26","ts":"3000.234843900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"86e73d93902a860e4d"}
+{"entry":{"date":"2022-05-19T07:53:37","ts":"3010.975501600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"acf68b143a71b27053"}
+{"entry":{"date":"2022-05-19T07:53:37","ts":"3011.100437600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"d980fbcdc9ff143171"}
+{"entry":{"date":"2022-05-19T07:54:09","ts":"3043.088240400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"20fe79e165302bc364"}
+{"entry":{"date":"2022-05-19T07:54:25","ts":"3059.317575199","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"36b3fcc13c2ac388a7"}
+{"entry":{"date":"2022-05-19T07:54:25","ts":"3059.490023800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"eca74e1eae6fffc7b4"}
+{"entry":{"date":"2022-05-19T07:54:54","ts":"3088.027516899","type":"msg","lvl":"ERROR","id":"0x5405","val":"(Fichier Deplacement.pgx-ligne 14) 'pDestCircle' : nom invalide"},"hash":"aee97e88fcf2d95ed8"}
+{"entry":{"val":"The previous message appeared %d time(s)","data":[{"val":1}],"date":"2022-05-19T07:55:23","ts":"3090.207611800","type":"key","lvl":"INFO","id":"0x4A03"},"hash":"6827c879f3d9b65914"}
+{"entry":{"date":"2022-05-19T07:55:23","ts":"3117.118199100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"afc81f9a496721d99b"}
+{"entry":{"date":"2022-05-19T08:05:10","ts":"3704.710409600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"b85cc1f0466cef8b7b"}
+{"entry":{"date":"2022-05-19T08:05:10","ts":"3704.726125299","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"7ef91c83ebd2810897"}
+{"entry":{"date":"2022-05-19T08:05:11","ts":"3704.933798300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"8a209a9abbd90ba462"}
+{"entry":{"date":"2022-05-19T08:05:23","ts":"3716.856730700","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"e5ec020e0bcbea3e5d"}
+{"entry":{"date":"2022-05-19T08:05:23","ts":"3716.856740700","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Impossible de passer la singularité dans ce cas.. PriseEnMain~. "},"hash":"03be4c06932bec7614"}
+{"entry":{"date":"2022-05-19T08:06:13","ts":"3766.792467000","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"cabb29ace25d5518f1"}
+{"entry":{"date":"2022-05-19T08:06:13","ts":"3766.792700300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"b78dd7bbf8c6568aec"}
+{"entry":{"date":"2022-05-19T08:06:13","ts":"3767.017834900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"b232675e481f20b137"}
+{"entry":{"date":"2022-05-19T08:07:01","ts":"3815.115563800","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"dcd185b47b30e717f9"}
+{"entry":{"date":"2022-05-19T08:07:01","ts":"3815.718448700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"d9e94441a71dbcede5"}
+{"entry":{"date":"2022-05-19T08:07:02","ts":"3816.067584300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"6f4586c04cee9e54d7"}
+{"entry":{"date":"2022-05-19T08:11:02","ts":"4056.009552999","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"1e35c347d5bd12a89d"}
+{"entry":{"date":"2022-05-19T08:11:03","ts":"4056.787477999","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"6f1cbd38802854fb3a"}
+{"entry":{"date":"2022-05-19T08:11:03","ts":"4056.886918599","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"383164ffcd1cbeb025"}
+{"entry":{"date":"2022-05-19T08:11:03","ts":"4056.900135100","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"eeb5fb19bdc3364e5c"}
+{"entry":{"date":"2022-05-19T08:11:03","ts":"4056.915024700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"693f68e732a64c89a1"}
+{"entry":{"date":"2022-05-19T08:11:11","ts":"4065.413865000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"29b6ff61ee87e11add"}
+{"entry":{"date":"2022-05-19T08:11:11","ts":"4065.436497000","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"4cfc12eb8f4571199c"}
+{"entry":{"date":"2022-05-19T08:11:11","ts":"4065.436714100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"15e75c61abf2d62a5d"}
+{"entry":{"date":"2022-05-19T08:11:18","ts":"4072.099243200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"8f8636dca62fb46815"}
+{"entry":{"date":"2022-05-19T08:11:18","ts":"4072.123473899","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"d377f0f7ec69f46cbe"}
+{"entry":{"date":"2022-05-19T08:11:18","ts":"4072.123670700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"fd5f9c24e96279c04a"}
+{"entry":{"date":"2022-05-19T08:11:20","ts":"4074.617047800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"0c9e36cb9eb3be2fd7"}
+{"entry":{"date":"2022-05-19T08:11:20","ts":"4074.636548199","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"1eb6a21b84e5fce836"}
+{"entry":{"date":"2022-05-19T08:11:20","ts":"4074.636751400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"ebe343debaedb35101"}
+{"entry":{"date":"2022-05-19T08:11:25","ts":"4078.977135900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"1a1d8f773a1061d8e8"}
+{"entry":{"date":"2022-05-19T08:11:25","ts":"4079.007284300","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"05d4eae0d2f8131cbf"}
+{"entry":{"date":"2022-05-19T08:11:25","ts":"4079.007508200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"53bdca514e8145b9a1"}
+{"entry":{"date":"2022-05-19T08:11:33","ts":"4087.733962400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"705eda144509debea0"}
+{"entry":{"date":"2022-05-19T08:11:33","ts":"4087.744381899","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"c0ccd11d8d162db297"}
+{"entry":{"date":"2022-05-19T08:11:33","ts":"4087.759793500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"2e3338d60f51dce832"}
+{"entry":{"date":"2022-05-19T08:12:06","ts":"4119.825094700","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"9b7b6d0051de52bc67"}
+{"entry":{"date":"2022-05-19T08:12:06","ts":"4119.847260700","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"7860bdb139430fa0ad"}
+{"entry":{"date":"2022-05-19T08:12:06","ts":"4119.847453800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"2f94534690b332ea1f"}
+{"entry":{"date":"2022-05-19T08:12:13","ts":"4127.544796900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"d2ec09e7dee983ee61"}
+{"entry":{"date":"2022-05-19T08:12:13","ts":"4127.568171600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"5c5ba86f58878a9be6"}
+{"entry":{"date":"2022-05-19T08:12:13","ts":"4127.568364400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"7ba81bdc05be02ba51"}
+{"entry":{"date":"2022-05-19T08:12:14","ts":"4128.650890600","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"ca5ae993f3635edb25"}
+{"entry":{"date":"2022-05-19T08:12:14","ts":"4128.673364800","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"63a3968a93efb20ba8"}
+{"entry":{"date":"2022-05-19T08:12:14","ts":"4128.673577500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"d63ca70d69a7bf9ce1"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4128.872874300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"65bcb0f5f67b2b5e64"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4128.878197600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"8eb0bf5215ce3fa50e"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4128.878409200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"76516b1aa16cdbd1b8"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4129.117770600","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"495a92b95db06f4aa8"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4129.146053000","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"0f0648ac42ebc1a941"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4129.146255100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"0f98a4f136ce2c0656"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4129.364650000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"b54025028b8e2d659e"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4129.401909100","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"a78ba9b56ba8be168f"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4129.402121600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"45a2cc537ba1ad0431"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4129.608997800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"822859d2ee91dde715"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4129.609777000","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"5ffd494785c5bfaf08"}
+{"entry":{"date":"2022-05-19T08:12:15","ts":"4129.610007500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"27540d311f8c815fd0"}
+{"entry":{"date":"2022-05-19T08:12:23","ts":"4137.547967800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"3d843429430d57c62b"}
+{"entry":{"date":"2022-05-19T08:12:23","ts":"4137.560212300","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"c3ba113ab6e79704ab"}
+{"entry":{"date":"2022-05-19T08:12:23","ts":"4137.575195500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"18b4946d7572648450"}
+{"entry":{"date":"2022-05-19T08:12:35","ts":"4149.118826600","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"54d33c694657ca6348"}
+{"entry":{"date":"2022-05-19T08:12:35","ts":"4149.132517600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"aa58f077fa3e608ac6"}
+{"entry":{"date":"2022-05-19T08:12:35","ts":"4149.132745700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"33291c6140e8096fd5"}
+{"entry":{"date":"2022-05-19T08:12:35","ts":"4149.665786200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"1aa844e79360634225"}
+{"entry":{"date":"2022-05-19T08:12:35","ts":"4149.666455500","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"61f40fdb260ff414fe"}
+{"entry":{"date":"2022-05-19T08:12:35","ts":"4149.666669000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"e57ff135a2e1f11b74"}
+{"entry":{"date":"2022-05-19T08:12:46","ts":"4160.313077200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"0b63941e39ac5a8370"}
+{"entry":{"date":"2022-05-19T08:12:46","ts":"4160.337771600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"d8e9d3fbbbafbc82bf"}
+{"entry":{"date":"2022-05-19T08:12:46","ts":"4160.337981600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"94ace1119bd5605113"}
+{"entry":{"date":"2022-05-19T08:12:58","ts":"4172.524687800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"1fd2992dec7d8733c5"}
+{"entry":{"date":"2022-05-19T08:13:06","ts":"4180.489281700","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"f2d7123c99aec599ee"}
+{"entry":{"date":"2022-05-19T08:13:45","ts":"4219.735993000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"64a107edbe16dfb034"}
+{"entry":{"date":"2022-05-19T08:13:55","ts":"4228.817300000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"91829c4198d1e99eab"}
+{"entry":{"date":"2022-05-19T08:14:10","ts":"4244.739470000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"723ebf7dbb22794813"}
+{"entry":{"date":"2022-05-19T08:14:17","ts":"4251.587346300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"9f9e783c3f3e845427"}
+{"entry":{"date":"2022-05-19T08:14:52","ts":"4285.976843300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"8203e6bc3180fd0d14"}
+{"entry":{"date":"2022-05-19T08:15:10","ts":"4304.275859100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"749fdca5aa66024882"}
+{"entry":{"date":"2022-05-19T08:21:16","ts":"4669.891648200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"96c77752093f2e42f6"}
+{"entry":{"date":"2022-05-19T08:21:44","ts":"4698.472464900","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"c341011871d3c6777f"}
+{"entry":{"date":"2022-05-19T08:21:45","ts":"4699.029326800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"9ef9ccbb4d65d64f28"}
+{"entry":{"date":"2022-05-19T08:21:45","ts":"4699.142972100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"d023ab211389c1c69f"}
+{"entry":{"date":"2022-05-19T08:36:10","ts":"5563.890068800","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"61358c4d0a2ed49b89"}
+{"entry":{"date":"2022-05-19T08:36:10","ts":"5563.904593400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"2a10319c13b3f5f312"}
+{"entry":{"date":"2022-05-19T08:36:10","ts":"5564.113812800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"f93c39794132d31c39"}
+{"entry":{"date":"2022-05-19T08:37:04","ts":"5618.578090000","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"b839fe90c8f39f0def"}
+{"entry":{"date":"2022-05-19T08:37:05","ts":"5619.227861800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"dc7d064d310e6e1470"}
+{"entry":{"date":"2022-05-19T08:37:05","ts":"5619.517623700","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"f84b07abc61f780546"}
+{"entry":{"date":"2022-05-19T08:38:02","ts":"5675.862273300","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"e40230e11a41819a16"}
+{"entry":{"date":"2022-05-19T08:38:02","ts":"5676.051394800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"fa03042b860815f11f"}
+{"entry":{"date":"2022-05-19T08:38:02","ts":"5676.372217400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"993451b6008623ba2a"}
+{"entry":{"date":"2022-05-19T08:55:42","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-05-19T09:47:07","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-05-19T09:45:59","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-05-19T10:58:50","ts":"4371.610675400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"a32e4254a111f7abbd"}
+{"entry":{"date":"2022-05-19T11:01:22","ts":"4523.959046600","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"2a5cf5b8798dd8a625"}
+{"entry":{"date":"2022-05-19T11:01:23","ts":"4524.643815699","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'PriseEnMain' arrêtée."},"hash":"4da3dd6ffbe6aff2e2"}
+{"entry":{"date":"2022-05-19T11:01:23","ts":"4524.743329800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'PriseEnMain' lancée."},"hash":"46a514764f02caff80"}
+{"entry":{"date":"2022-05-19T13:02:40","type":"run","version":"3.0.0"}}

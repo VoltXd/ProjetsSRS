@@ -1,0 +1,153 @@
+﻿{"entry":{"date":"2022-05-19T13:04:11","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.162927400","type":"msg","lvl":"INFO","id":"0x0003","val":"Cycle time set to 0.004s"},"hash":"91a7ea649b66c4cf19"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.162946300","type":"msg","lvl":"INFO","id":"0x0003","val":"Simulation cycle time set to 0.01s"},"hash":"7ae1b274fa7adaac9e"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.162965200","type":"msg","lvl":"WARN","id":"0x0002","val":"Controller IP address could not be updated"},"hash":"6b351b1a3856ab0713"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.162971900","type":"msg","lvl":"WARN","id":"0x0002","val":"Controller IP address 2 could not be updated"},"hash":"47d207d7ccb1a82579"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.165459899","type":"msg","lvl":"INFO","id":"0x0003","val":"Building simulated Hilscher IOs..."},"hash":"ac8e38125680948c91"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.165869300","type":"msg","lvl":"WARN","id":"0x0002","val":"No Hilscher interface added"},"hash":"8e3eeafdc6e24087a1"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.168748800","type":"msg","lvl":"INFO","id":"0x0003","val":"(DEV) Build simulated calibration"},"hash":"c85186941f53d0be7b"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.169121099","type":"msg","lvl":"WARN","id":"0x0002","val":"No file describing the safety program structure found. The default structure will be used."},"hash":"4a4b4f6c87cb38fe8a"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.169314999","type":"msg","lvl":"WARN","id":"0x0002","val":"No safe speed monitoring simulation file found."},"hash":"5aa60c734c208a5972"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.169645800","type":"msg","lvl":"WARN","id":"0x0002","val":"Default user payload used."},"hash":"8f91129c7e9ec37a51"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.169677599","type":"msg","lvl":"INFO","id":"0x0003","val":"Payload default: mass=6 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.016 yy=0.013 zz=0.011 kg.m^2"},"hash":"767b744e302a54ba55"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.169827400","type":"msg","lvl":"INFO","id":"0x0003","val":"Build Cell Done"},"hash":"b4eecf70ca47a6e5a0"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.172884899","type":"msg","lvl":"INFO","id":"0x2401","val":"Power hour count = 0:00:00"},"hash":"fcf063f4db367dcdb9"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.172980899","type":"msg","lvl":"INFO","id":"0x2401","val":"Mac Address = ac-9e-17-f6-ed-fa (J204)"},"hash":"6905f99c482e4bce57"}
+{"entry":{"val":"End of arm power shutdown phase.","date":"2022-05-19T13:04:11","ts":"0.206302300","type":"key","lvl":"INFO","id":"0x1602"},"hash":"b94f9a7774b0b0658c"}
+{"entry":{"val":"Safety board status changed to %s.","data":[{"val":"STATUS_RUNNING"}],"date":"2022-05-19T13:04:11","ts":"0.206404000","type":"key","lvl":"INFO","id":"0x5909"},"hash":"b7f1dc2367180f9289"}
+{"entry":{"val":"Safety board ready.","date":"2022-05-19T13:04:11","ts":"0.206406799","type":"key","lvl":"INFO","id":"0x5901"},"hash":"eeffdeb1306001c5c8"}
+{"entry":{"val":"Refresh position started for all axes.","date":"2022-05-19T13:04:11","ts":"0.219908099","type":"key","lvl":"INFO","id":"0x151D"},"hash":"4916003886c5425e5a"}
+{"entry":{"val":"Refresh position succeeded.","date":"2022-05-19T13:04:11","ts":"0.234807799","type":"key","lvl":"INFO","id":"0x151E"},"hash":"7836b60c51a9da87b1"}
+{"entry":{"val":"Robot joint position at boot: %s","data":[{"val":"?, ?, ?, ?, ?, ?"}],"date":"2022-05-19T13:04:11","ts":"0.234816399","type":"key","lvl":"INFO","id":"0x3F33"},"hash":"ec10a77438096bd6fb"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.239753899","type":"msg","lvl":"INFO","id":"0x0003","val":"COM-PC: server created on all interfaces [851]"},"hash":"bb43bd2a4c271d2907"}
+{"entry":{"val":"REST server created [%d].","data":[{"val":852}],"date":"2022-05-19T13:04:11","ts":"0.259327800","type":"key","lvl":"INFO","id":"0x7801"},"hash":"ab35fdc8068a3b4c42"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259902099","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Mounting: floor"},"hash":"bbd15297607100d351"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259906900","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Name: ?"},"hash":"3116e64d700eaadd8d"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259909999","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm OilType: ?"},"hash":"117b1580385e48eac4"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259919400","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm S/N: ?"},"hash":"d29c607cd40c9b2f02"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259924899","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Tuning: R1-V1"},"hash":"0da5c4512afba328a3"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259929700","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Type: tx2touch_90-S3"},"hash":"614be12d673b995654"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259935100","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Version: tx2touch_90-S3-R1-V1"},"hash":"a6ba124e0cd88cb513"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259940499","type":"msg","lvl":"INFO","id":"0x2401","val":"CFAST P/N: DXXXXXXXX"},"hash":"a2da4bf3b691db1b21"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259948699","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Hardware revision: 0"},"hash":"408d939f1c671f1780"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259953399","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Name: NA"},"hash":"95ad83183e816f87d6"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259957699","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT O/N: 0"},"hash":"eefe67c8d17fb148e6"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259962299","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT P/N: DXXXXXXXX"},"hash":"eb826435988556e7f5"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259966599","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT S/N: 0"},"hash":"05fa6cc4c1ec894dae"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259972000","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU Board: TEKNOR 3506MHz; 32768MB RAM; ?MB disk"},"hash":"103f381fba111012f3"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259976400","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL BIOS: ?"},"hash":"a81c57a351ebc3487c"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259980799","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL FPGA: ?"},"hash":"3d23aa5a253d6dce0d"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259986099","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL Hardware revision: 0"},"hash":"757bbf2e1f2c820fd2"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259990500","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL MMI: ?"},"hash":"89aa74ecb30f218e5b"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259994800","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL O/N: 0"},"hash":"72b648cba6fd1a151a"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.259998900","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL S/N: 0"},"hash":"153cf4fb59e67b9d46"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260003100","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL SDK: NA"},"hash":"c8bac898f8b935e321"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260007900","type":"msg","lvl":"INFO","id":"0x2401","val":"CS9Logical P/N: DXXXXXXXX"},"hash":"eb8f998439d5b4d003"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260013200","type":"msg","lvl":"INFO","id":"0x2401","val":"Configuration Version: c2.034"},"hash":"aca8d1586748c87517"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260018199","type":"msg","lvl":"INFO","id":"0x2401","val":"Controller S/N: ?"},"hash":"5547c6eb38ebd7431e"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260022899","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Firmware: 0.1.1.66"},"hash":"e0fe62b2634cf4e2cf"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260027900","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Name: D3-SMM 362/A-0250-00"},"hash":"05704ec0a9b7bbf311"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260032500","type":"msg","lvl":"INFO","id":"0x2401","val":"Option VAL 3: enabled"},"hash":"5aff7563613268f100"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260037600","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC Configuration: ?"},"hash":"c35f559f0551914383"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260042100","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC Name: ?"},"hash":"2907d66455d1223dbc"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260046600","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC System: ?"},"hash":"146bf6af1c6e4faeb9"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260052100","type":"msg","lvl":"INFO","id":"0x2401","val":"PowerSupply Name: URPS 9.1 325VDC 3P"},"hash":"a534df33e68742cf84"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260057200","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Date: Jun  2 2020"},"hash":"909f126ece20e50b8b"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260062000","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Time: 14:34:49"},"hash":"2708de1647761f67d2"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260067100","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Version: s8.10.3cs9_BS2093"},"hash":"824f3bd7f67d282791"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260072400","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Configuration CRC: 169788671"},"hash":"0e03decb8b3a7809c9"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260077000","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Firmware: 2.0.0.3"},"hash":"5cd0155f33859bcdb7"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260081700","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Program CRC: 450852226"},"hash":"0c1de31403ec168909"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260086300","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Software: 0.030"},"hash":"08add9fd4510ead9e5"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260091200","type":"msg","lvl":"INFO","id":"0x2401","val":"SP2 Software: 2.2.8 / 0ba35d077eea (stable) tip"},"hash":"d84825065f37e58c13"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260096400","type":"msg","lvl":"INFO","id":"0x2401","val":"System: s8.10.3cs9_BS2093"},"hash":"774bdb29921ba95ba3"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260101100","type":"msg","lvl":"INFO","id":"0x2401","val":"System CycleTime: 0.004s"},"hash":"9a5e241ea13350e64c"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260105700","type":"msg","lvl":"INFO","id":"0x2401","val":"System Date: Jun  2 2020"},"hash":"6561d167db65e37967"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260110300","type":"msg","lvl":"INFO","id":"0x2401","val":"System OS: Windows"},"hash":"6a1154a44c660fcd9f"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.260114700","type":"msg","lvl":"INFO","id":"0x2401","val":"System Time: 14:37:05"},"hash":"fbb65fcb80e98fccdc"}
+{"entry":{"val":"New profile : %s.","data":[{"val":"default"}],"date":"2022-05-19T13:04:11","ts":"0.260711900","type":"key","lvl":"INFO","id":"0x2201"},"hash":"a6f9bd84c8aa69c820"}
+{"entry":{"date":"2022-05-19T13:04:11","ts":"0.265518100","type":"msg","lvl":"INFO","id":"0x2401","val":"End of controller initialization"},"hash":"d7b80de753aa41e721"}
+{"entry":{"val":"Working mode : manual.","date":"2022-05-19T13:04:11","ts":"0.297881599","type":"key","lvl":"INFO","id":"0x1802"},"hash":"fbeed32ea3628f73df"}
+{"entry":{"val":"Saving controller context...","date":"2022-05-19T13:04:16","ts":"5.326552699","type":"key","lvl":"INFO","id":"0x5B01"},"hash":"45fb95496fbcb7af3a"}
+{"entry":{"val":"CPU temperature: %g degC","data":[{"val":50.000000000}],"date":"2022-05-19T13:04:16","ts":"5.354999500","type":"key","lvl":"INFO","id":"0x5B02"},"hash":"7c7bbb258ef4f9bae4"}
+{"entry":{"val":"Baseboard temperature: %g degC","data":[{"val":40.000000000}],"date":"2022-05-19T13:04:16","ts":"5.355014699","type":"key","lvl":"INFO","id":"0x5B03"},"hash":"7bfa825b27523b6bd5"}
+{"entry":{"val":"CPU fan speed: %g RPM","data":[{"val":4000.000000000}],"date":"2022-05-19T13:04:16","ts":"5.355021100","type":"key","lvl":"INFO","id":"0x5B04"},"hash":"a4d1ed772fc4f04314"}
+{"entry":{"val":"CPU Battery is OK","date":"2022-05-19T13:04:16","ts":"5.355041099","type":"key","lvl":"INFO","id":"0x5B05"},"hash":"94b32b6284843d5b4d"}
+{"entry":{"val":"No CPU Overcurrent.","date":"2022-05-19T13:04:16","ts":"5.355053100","type":"key","lvl":"INFO","id":"0x5B07"},"hash":"94e06ebe9077faf163"}
+{"entry":{"date":"2022-05-19T13:04:49","ts":"38.182683999","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 57650 id=#1"},"hash":"16c999a591f3841f3a"}
+{"entry":{"date":"2022-05-19T13:04:59","ts":"48.533345000","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 57650 id=#1"},"hash":"04e6b81ca7999c059d"}
+{"entry":{"date":"2022-05-19T13:08:29","ts":"257.648690000","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 57747 id=#2"},"hash":"8be2ea289a3de3dd35"}
+{"entry":{"date":"2022-05-19T13:08:50","ts":"278.639722600","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 57747 id=#2"},"hash":"5915f2b4dd15ae12fd"}
+{"entry":{"date":"2022-05-19T13:13:03","ts":"532.202152600","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 57825 id=#3"},"hash":"1e1b1b189ff80f7ea6"}
+{"entry":{"date":"2022-05-19T13:13:30","ts":"558.701814800","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 57825 id=#3"},"hash":"dace5de112ee7c39c2"}
+{"entry":{"date":"2022-05-19T13:13:33","ts":"561.699458300","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 57829 id=#4"},"hash":"22b0c3836a35d6d60d"}
+{"entry":{"date":"2022-05-19T13:15:30","ts":"678.780633700","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 57829 id=#4"},"hash":"e8cc988ea8ae89de25"}
+{"entry":{"date":"2022-05-19T13:15:37","ts":"686.130691300","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 57853 id=#5"},"hash":"625e753b5db815f28e"}
+{"entry":{"date":"2022-05-19T13:17:20","ts":"788.813076900","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 57853 id=#5"},"hash":"f0c1bf072254e55a72"}
+{"entry":{"date":"2022-05-19T13:18:50","ts":"878.590423800","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 57880 id=#6"},"hash":"7188b784856c95c074"}
+{"entry":{"date":"2022-05-19T13:18:50","ts":"878.693474800","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"c3da601c9b2e95516e"}
+{"entry":{"date":"2022-05-19T13:18:50","ts":"878.694862100","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"c1e8c1af8745c0c167"}
+{"entry":{"date":"2022-05-19T13:18:50","ts":"879.283253500","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 57880 id=#6"},"hash":"357aa2671f3cfd3037"}
+{"entry":{"val":"SP2 pendant is connected.","date":"2022-05-19T13:18:52","ts":"880.683943300","type":"key","lvl":"INFO","id":"0x2801"},"hash":"3933e49bb3880ca4da"}
+{"entry":{"val":"Working mode : automatic.","date":"2022-05-19T13:18:55","ts":"884.493686900","type":"key","lvl":"INFO","id":"0x1801"},"hash":"b50374c053ffd9d9c5"}
+{"entry":{"val":"Saving controller context...","date":"2022-05-19T13:18:58","ts":"887.496488700","type":"key","lvl":"INFO","id":"0x5B01"},"hash":"6031790de1f3481364"}
+{"entry":{"date":"2022-05-19T13:20:23","ts":"971.916381000","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 58769 id=#7"},"hash":"defd25b1429437b583"}
+{"entry":{"date":"2022-05-19T13:20:23","ts":"971.948943700","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"0fbc1b8e038328e884"}
+{"entry":{"date":"2022-05-19T13:20:23","ts":"971.949377100","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"61b1c9d37eec7f045c"}
+{"entry":{"date":"2022-05-19T13:20:23","ts":"972.457549300","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 58769 id=#7"},"hash":"f040c5eaf202b10e0b"}
+{"entry":{"date":"2022-05-19T13:20:29","ts":"977.839356200","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 58831 id=#8"},"hash":"3528fa235d9fb30951"}
+{"entry":{"date":"2022-05-19T13:20:29","ts":"977.872333299","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"c304ca8b408a8cd922"}
+{"entry":{"date":"2022-05-19T13:20:29","ts":"977.873467700","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"e95828d64c712692c9"}
+{"entry":{"date":"2022-05-19T13:20:29","ts":"978.204061900","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 58831 id=#8"},"hash":"360deda1574f517d09"}
+{"entry":{"date":"2022-05-19T13:21:46","ts":"1055.146513000","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 59443 id=#9"},"hash":"2a1a14e97fc95f5494"}
+{"entry":{"date":"2022-05-19T13:21:46","ts":"1055.174399800","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"9f4d3fdea81697fe4c"}
+{"entry":{"date":"2022-05-19T13:21:46","ts":"1055.174890500","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"6122cfaed09ec535fb"}
+{"entry":{"date":"2022-05-19T13:21:47","ts":"1055.612149200","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 59443 id=#9"},"hash":"a6190c78eb07a77b3f"}
+{"entry":{"val":"Settling arm power...","date":"2022-05-19T13:21:49","ts":"1058.532100899","type":"key","lvl":"INFO","id":"0x1603"},"hash":"80d7bddab893629725"}
+{"entry":{"val":"Arm power settled.","date":"2022-05-19T13:21:51","ts":"1059.585139599","type":"key","lvl":"INFO","id":"0x1601"},"hash":"81e36c689d6ac74f92"}
+{"entry":{"val":"Brakes: OPEN.","date":"2022-05-19T13:21:51","ts":"1060.316844000","type":"key","lvl":"INFO","id":"0x1403"},"hash":"332f5cacb1549b6f51"}
+{"entry":{"date":"2022-05-19T13:21:56","ts":"1064.570874300","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 59542 id=#10"},"hash":"9070a75df0a9268952"}
+{"entry":{"val":"Saving controller context...","date":"2022-05-19T13:21:57","ts":"1066.279957700","type":"key","lvl":"INFO","id":"0x5B01"},"hash":"bf218831b7f286e07c"}
+{"entry":{"date":"2022-05-19T13:40:09","ts":"2158.166238700","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 53872 id=#11"},"hash":"2a68d9d8b121ffab90"}
+{"entry":{"date":"2022-05-19T13:40:09","ts":"2158.185915799","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"114b0def150a9860d7"}
+{"entry":{"date":"2022-05-19T13:40:09","ts":"2158.186387800","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"b117d0e0295e49a145"}
+{"entry":{"date":"2022-05-19T13:40:10","ts":"2158.638981799","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 53872 id=#11"},"hash":"5a2d867d7889d750e6"}
+{"entry":{"val":"Working mode : test.","date":"2022-05-19T13:40:18","ts":"2166.769393499","type":"key","lvl":"INFO","id":"0x1803"},"hash":"7cba313bf230eefd56"}
+{"entry":{"val":"Brakes: CLOSED.","date":"2022-05-19T13:40:18","ts":"2166.770990799","type":"key","lvl":"INFO","id":"0x1404"},"hash":"9ea18873cc17f524e1"}
+{"entry":{"val":"Arm power shutdown...","date":"2022-05-19T13:40:18","ts":"2167.055660099","type":"key","lvl":"INFO","id":"0x1604"},"hash":"4f298a23db98063656"}
+{"entry":{"val":"End of arm power shutdown phase.","date":"2022-05-19T13:40:18","ts":"2167.113525599","type":"key","lvl":"INFO","id":"0x1602"},"hash":"d38b8331ccd67245e4"}
+{"entry":{"val":"Saving controller context...","date":"2022-05-19T13:40:23","ts":"2172.287649500","type":"key","lvl":"INFO","id":"0x5B01"},"hash":"90446afdfdf1e60e34"}
+{"entry":{"date":"2022-05-19T13:41:10","ts":"2219.541819900","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 59542 id=#10"},"hash":"0ac5acc5427e4cd88a"}
+{"entry":{"date":"2022-05-19T13:43:26","ts":"2355.139554699","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 54589 id=#12"},"hash":"4edc9599424275971e"}
+{"entry":{"date":"2022-05-19T13:43:51","ts":"2379.578412200","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 54589 id=#12"},"hash":"14b67c642696cdddae"}
+{"entry":{"date":"2022-05-19T13:45:09","ts":"2457.707110200","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 54851 id=#13"},"hash":"36020c8b7e2c637a25"}
+{"entry":{"date":"2022-05-19T13:45:09","ts":"2457.728178900","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"d694deb0bf677c9eff"}
+{"entry":{"date":"2022-05-19T13:45:09","ts":"2457.729065000","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"1345ac9196bb4df636"}
+{"entry":{"date":"2022-05-19T13:45:09","ts":"2458.226098400","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 54851 id=#13"},"hash":"a04caf8f006f12a2b2"}
+{"entry":{"date":"2022-05-19T13:45:12","ts":"2460.613953400","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 54863 id=#14"},"hash":"3ea01898e31cbb2dd1"}
+{"entry":{"date":"2022-05-19T13:45:12","ts":"2460.669625199","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"1d5ac5582d8f24770f"}
+{"entry":{"date":"2022-05-19T13:45:12","ts":"2460.670596300","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"d308827ae32438d303"}
+{"entry":{"date":"2022-05-19T13:45:12","ts":"2460.995550900","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 54863 id=#14"},"hash":"2826d13424be3302f0"}
+{"entry":{"date":"2022-05-19T13:47:02","ts":"2570.730290799","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 55128 id=#15"},"hash":"43eb553357ecf96a62"}
+{"entry":{"date":"2022-05-19T13:47:02","ts":"2570.751051200","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"5c6c10ca548adb581d"}
+{"entry":{"date":"2022-05-19T13:47:02","ts":"2570.751529700","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"f721869bfae0bb48ea"}
+{"entry":{"date":"2022-05-19T13:47:02","ts":"2571.196951800","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 55128 id=#15"},"hash":"b6a91d2760a4c09e42"}
+{"entry":{"date":"2022-05-19T13:47:06","ts":"2574.620104400","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 55181 id=#16"},"hash":"5641ce729a93176f79"}
+{"entry":{"val":"Settling arm power...","date":"2022-05-19T13:47:07","ts":"2576.272825799","type":"key","lvl":"INFO","id":"0x1603"},"hash":"e90faac348689e486f"}
+{"entry":{"val":"Arm power settled.","date":"2022-05-19T13:47:08","ts":"2577.024928500","type":"key","lvl":"INFO","id":"0x1601"},"hash":"9f37563f28b05fc19c"}
+{"entry":{"val":"Brakes: OPEN.","date":"2022-05-19T13:47:08","ts":"2577.527263400","type":"key","lvl":"INFO","id":"0x1403"},"hash":"c43469d86ce32ba360"}
+{"entry":{"val":"Working mode : automatic.","date":"2022-05-19T13:47:10","ts":"2578.780844099","type":"key","lvl":"INFO","id":"0x1801"},"hash":"acb9279d2c6a0eacac"}
+{"entry":{"val":"Brakes: CLOSED.","date":"2022-05-19T13:47:10","ts":"2578.829761000","type":"key","lvl":"INFO","id":"0x1404"},"hash":"8273b6c0d7c3d475d9"}
+{"entry":{"val":"Arm power shutdown...","date":"2022-05-19T13:47:10","ts":"2579.102627300","type":"key","lvl":"INFO","id":"0x1604"},"hash":"d826ba14bd43084f76"}
+{"entry":{"val":"End of arm power shutdown phase.","date":"2022-05-19T13:47:10","ts":"2579.104254000","type":"key","lvl":"INFO","id":"0x1602"},"hash":"9b3a4507f18d0b6bce"}
+{"entry":{"val":"Settling arm power...","date":"2022-05-19T13:47:12","ts":"2581.036227100","type":"key","lvl":"INFO","id":"0x1603"},"hash":"57903552b397190c53"}
+{"entry":{"val":"Arm power settled.","date":"2022-05-19T13:47:13","ts":"2581.740670200","type":"key","lvl":"INFO","id":"0x1601"},"hash":"e0e7e2afd76171ab7e"}
+{"entry":{"val":"Brakes: OPEN.","date":"2022-05-19T13:47:13","ts":"2582.233765100","type":"key","lvl":"INFO","id":"0x1403"},"hash":"70d546009230f32b77"}
+{"entry":{"date":"2022-05-19T13:47:33","ts":"2602.132625500","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 55181 id=#17"},"hash":"1ebc98bc1961aaef50"}
+{"entry":{"date":"2022-05-19T13:47:33","ts":"2602.161165799","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"e91f6972b081e19e5a"}
+{"entry":{"date":"2022-05-19T13:47:33","ts":"2602.161597600","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"ba08a1fecbf98ad7bd"}
+{"entry":{"date":"2022-05-19T13:47:34","ts":"2602.601975900","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 55181 id=#17"},"hash":"4fcc8953af0e33a5f9"}
+{"entry":{"date":"2022-05-19T13:47:59","ts":"2628.299862200","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 55712 id=#18"},"hash":"c53da63f8f43621a6d"}
+{"entry":{"date":"2022-05-19T13:47:59","ts":"2628.330027499","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"e10092bd26255f8e64"}
+{"entry":{"date":"2022-05-19T13:47:59","ts":"2628.330971000","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"50dfa838efe02a9f32"}
+{"entry":{"date":"2022-05-19T13:48:00","ts":"2628.769279800","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 55712 id=#18"},"hash":"8bd5e971435da311df"}

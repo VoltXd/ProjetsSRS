@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="Deplacement">
+    <Code><![CDATA[begin
+  movej(jInit, flange, mNomSpeed)
+  movej(jDest, flange, mNomSpeed)
+  waitEndMove()
+  
+  do
+    waitEndMove()
+    //movel(pCarre1, flange, mNomSpeed)
+    //movel(pCarre2, flange, mNomSpeed)
+    movec(pCarre1, pCarre2, flange, mNomSpeed)
+    movej(pCarre3, flange, mNomSpeed)
+    movej(pCarre4, flange, mNomSpeed)
+  until false
+end]]></Code>
+  </Program>
+</Programs>
