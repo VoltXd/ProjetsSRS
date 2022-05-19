@@ -10,6 +10,12 @@
   jInitialPosition = {0,60,95,0,25,0}
   pInitialPosition = {{597.67, 50, -272.68,-180,0,-180}, {sfree, efree, wfree}}
   
+  pInitialPositionRepos = {{597.67, 50, -172.68,-180,0,-180}, {sfree, efree, wfree}}
+  
+  //Dimensions balayage simple
+  nScanningLength = 300
+  nScanningWidth = 300
+  nScanningLineNumber = 5
 end]]></Code>
   </Program>
 </Programs>

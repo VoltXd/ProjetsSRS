@@ -6,8 +6,17 @@
   movej(pRobotZeroPosition, flange, mNomSpeed)
   
   //Déplacement vers une position initiale de numérisation
-  movel(pInitialPosition, flange, mNomSpeed)
-  waitEndMove()
+  //movel(pInitialPosition, flange, mNomSpeed)
+  //waitEndMove()
+  
+  while true
+    //Décalage vers le haut
+    movel(pInitialPositionRepos, flange, mNomSpeed)
+    waitEndMove()
+      
+    //Execution d'un balayage de surface
+    call BalayageSimple()
+  endWhile
 end]]></Code>
   </Program>
 </Programs>
