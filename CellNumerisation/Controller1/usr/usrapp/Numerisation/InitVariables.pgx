@@ -12,6 +12,10 @@
   
   pInitialPositionRepos = {{597.67, 50, -172.68,-180,0,-180}, {sfree, efree, wfree}}
   
+  pCircle = pInitialPosition
+  pCircle.trsf.x = pCircle.trsf.x - nScanningLength/2
+  
+  
   //Dimensions balayage simple
   nScanningLength = 300
   nScanningWidth = 300

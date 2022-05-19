@@ -7,11 +7,11 @@
     },
     {
       "mode": 3,
-      "name": "BalayageSimple",
+      "name": "Deplacements",
       "nodes": [
         {
-          "start": 134,
-          "end": 604,
+          "start": 274,
+          "end": 467,
           "isCollapsed": false
         }
       ]
@@ -23,11 +23,11 @@
     },
     {
       "mode": 3,
-      "name": "Deplacements",
+      "name": "BalayageSimple",
       "nodes": [
         {
-          "start": 274,
-          "end": 467,
+          "start": 134,
+          "end": 604,
           "isCollapsed": false
         }
       ]

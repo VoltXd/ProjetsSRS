@@ -13,6 +13,9 @@
     movel(pNextPosition, flange, mNomSpeed)
     waitEndMove()
   endFor
+  pNextPosition.trsf.x = pInitialPosition.trsf.x
+  pNextPosition.trsf.y = pInitialPosition.trsf.y - nScanningWidth/2
+  movec(pCircle,pNextPosition,flange,mNomSpeed)
 end]]></Code>
   </Program>
 </Programs>
