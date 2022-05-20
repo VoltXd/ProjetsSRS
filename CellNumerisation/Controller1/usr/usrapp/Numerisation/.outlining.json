@@ -2,8 +2,14 @@
   "programs": [
     {
       "mode": 3,
-      "name": "start",
-      "nodes": []
+      "name": "BalayageSimple",
+      "nodes": [
+        {
+          "start": 134,
+          "end": 604,
+          "isCollapsed": false
+        }
+      ]
     },
     {
       "mode": 3,
@@ -18,18 +24,23 @@
     },
     {
       "mode": 3,
-      "name": "BalayageSimple",
+      "name": "InitVariables",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "PositionUpdate",
       "nodes": [
         {
-          "start": 134,
-          "end": 604,
+          "start": 8,
+          "end": 87,
           "isCollapsed": false
         }
       ]
     },
     {
       "mode": 3,
-      "name": "InitVariables",
+      "name": "start",
       "nodes": []
     }
   ]
