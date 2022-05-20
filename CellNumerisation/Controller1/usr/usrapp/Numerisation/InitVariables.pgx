@@ -2,6 +2,11 @@
 <Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
   <Program name="InitVariables">
     <Code><![CDATA[begin
+  //Dimensions balayage simple
+  nScanningLength = 300
+  nScanningWidth = 300
+  nScanningLineNumber = 5
+  
   //Position initiale du robot
   jRobotZeroPosition = {0,0,0,0,0,0}
   pRobotZeroPosition = {{50,50,950,0,0,0}, {sfree, efree, wfree}}
@@ -12,14 +17,9 @@
   
   pInitialPositionRepos = {{597.67, 50, -172.68,-180,0,-180}, {sfree, efree, wfree}}
   
+  //Position intermédiaire du cercle
   pCircle = pInitialPosition
   pCircle.trsf.x = pCircle.trsf.x - nScanningLength/2
-  
-  
-  //Dimensions balayage simple
-  nScanningLength = 300
-  nScanningWidth = 300
-  nScanningLineNumber = 5
 end]]></Code>
   </Program>
 </Programs>
