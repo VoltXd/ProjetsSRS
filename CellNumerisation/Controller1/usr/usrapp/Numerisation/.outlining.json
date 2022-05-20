@@ -2,17 +2,6 @@
   "programs": [
     {
       "mode": 3,
-      "name": "BalayageSimple",
-      "nodes": [
-        {
-          "start": 134,
-          "end": 604,
-          "isCollapsed": false
-        }
-      ]
-    },
-    {
-      "mode": 3,
       "name": "Deplacements",
       "nodes": [
         {
@@ -21,11 +10,6 @@
           "isCollapsed": false
         }
       ]
-    },
-    {
-      "mode": 3,
-      "name": "InitVariables",
-      "nodes": []
     },
     {
       "mode": 3,
@@ -41,6 +25,22 @@
     {
       "mode": 3,
       "name": "start",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "BalayageSimple",
+      "nodes": [
+        {
+          "start": 133,
+          "end": 603,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "InitVariables",
       "nodes": []
     }
   ]

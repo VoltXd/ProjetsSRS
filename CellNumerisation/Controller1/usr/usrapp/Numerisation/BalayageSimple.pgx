@@ -2,7 +2,7 @@
 <Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
   <Program name="BalayageSimple">
     <Code><![CDATA[begin
-  //Rappel : pInitialPosition = {{597.67, 50, -272.68,-180,0,-180}, {sfree, efree, wfree}}
+  //Rappel : pInitialPosition = {{597.67, 50, -72.68,-180,0,-180}, {sfree, efree, wfree}}
   pNextPosition = pInitialPosition
   for nNextPositionX = pInitialPosition.trsf.x - nScanningLength/2 to pInitialPosition.trsf.x + nScanningLength/2 step nScanningLength / nScanningLineNumber
     pNextPosition.trsf.y = pInitialPosition.trsf.y - nScanningWidth/2

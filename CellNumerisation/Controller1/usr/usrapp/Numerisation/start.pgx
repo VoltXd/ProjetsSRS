@@ -4,9 +4,15 @@
     <Code><![CDATA[begin
   userPage("InterfaceRobot")
   taskCreate "PositionUpdate", 10, PositionUpdate()
-  userPageBind("InterfaceRobot", "nmbXPos", "value", pCurrentPosition.trsf.x, 1, "r")
+  userPageBind("InterfaceRobot", "lblXValue", "innerHTML", pCurrentPosition.trsf.x, 1, "r")
+  userPageBind("InterfaceRobot", "lblYValue", "innerHTML", pCurrentPosition.trsf.y, 1, "r")
+  userPageBind("InterfaceRobot", "lblZValue", "innerHTML", pCurrentPosition.trsf.z, 1, "r")
+  userPageBind("InterfaceRobot", "lblRXValue", "innerHTML", pCurrentPosition.trsf.rx, 1, "r")
+  userPageBind("InterfaceRobot", "lblRYValue", "innerHTML", pCurrentPosition.trsf.ry, 1, "r")
+  userPageBind("InterfaceRobot", "lblRZValue", "innerHTML", pCurrentPosition.trsf.rz, 1, "r")
   call InitVariables()
   call Deplacements()
+  
 end]]></Code>
   </Program>
 </Programs>

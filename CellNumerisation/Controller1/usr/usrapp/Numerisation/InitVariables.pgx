@@ -8,14 +8,14 @@
   nScanningLineNumber = 5
 
   //Position initiale du robot
-  jRobotZeroPosition = {0,0,0,0,0,0}
-  pRobotZeroPosition = {{50,50,950,0,0,0}, {sfree, efree, wfree}}
+  jRobotZeroPosition = {0, 0, 0, 0, 0, 0}
+  pRobotZeroPosition = {{50, 50, 950, 0, 0, 0}, {sfree, efree, wfree}}
   
   //Position initiale de numérisation
-  jInitialPosition = {0,37.32,99.65,0,43.03,0}
-  pInitialPosition = {{597.67, 50, -72.68,-180,0,-180}, {sfree, efree, wfree}}
+  jInitialPosition = {0, 37.32, 99.65, 0, 43.03 ,0}
+  pInitialPosition = {{597.67, 50, -72.68, -180, 0, -180}, {sfree, efree, wfree}}
   
-  jInitialPositionRepos = {0,28.35,97.17,0,54.50,0}
+  jInitialPositionRepos = {0, 28.35, 97.17, 0, 54.50, 0}
   pInitialPositionRepos = {{597.67, 50, 27.32,-180,0,-180}, {sfree, efree, wfree}}
   
   //Position intermédiaire du cercle
