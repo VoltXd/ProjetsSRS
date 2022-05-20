@@ -16,6 +16,7 @@
   pNextPosition.trsf.x = pInitialPosition.trsf.x
   pNextPosition.trsf.y = pInitialPosition.trsf.y - nScanningWidth/2
   movec(pCircle,pNextPosition,flange,mNomSpeed)
+  waitEndMove()
 end]]></Code>
   </Program>
 </Programs>
