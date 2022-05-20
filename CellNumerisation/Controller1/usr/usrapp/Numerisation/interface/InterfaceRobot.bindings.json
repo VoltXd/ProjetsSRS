@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "bindings": [
+    {
+      "id": "lblRZValue",
+      "attribute": "innerHTML",
+      "data": "pCurrentPosition[0].trsf.rz",
+      "size": 1,
+      "direction": "r",
+      "refresh": 1
+    }
+  ],
+  "callbacks": [],
+  "events": []
+}

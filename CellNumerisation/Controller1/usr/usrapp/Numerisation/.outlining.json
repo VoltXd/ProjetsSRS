@@ -2,11 +2,6 @@
   "programs": [
     {
       "mode": 3,
-      "name": "start",
-      "nodes": []
-    },
-    {
-      "mode": 3,
       "name": "Deplacements",
       "nodes": [
         {
@@ -18,11 +13,27 @@
     },
     {
       "mode": 3,
+      "name": "PositionUpdate",
+      "nodes": [
+        {
+          "start": 8,
+          "end": 87,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "start",
+      "nodes": []
+    },
+    {
+      "mode": 3,
       "name": "BalayageSimple",
       "nodes": [
         {
-          "start": 134,
-          "end": 604,
+          "start": 133,
+          "end": 603,
           "isCollapsed": false
         }
       ]

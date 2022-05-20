@@ -5,6 +5,7 @@
     <Program file="BalayageSimple.pgx" />
     <Program file="Deplacements.pgx" />
     <Program file="InitVariables.pgx" />
+    <Program file="PositionUpdate.pgx" />
     <Program file="start.pgx" />
     <Program file="stop.pgx" />
   </Programs>

@@ -15,6 +15,8 @@
       <Node Path="CellNumerisation" IsExpanded="true" />
       <Node Path="CellNumerisation\Controller1" IsExpanded="true" />
       <Node Path="CellNumerisation\Controller1\Disk:##Numerisation#Numerisation.pjx" IsExpanded="true" />
+      <Node Path="CellNumerisation\Controller1\Disk:##Numerisation#Numerisation.pjx\interface" IsExpanded="true" />
+      <Node Path="CellNumerisation\Controller1\Disk:##Numerisation#Numerisation.pjx\interface\InterfaceRobot.html" IsExpanded="true" />
     </Nodes>
   </Option>
   <Option Name="GeometryView">
