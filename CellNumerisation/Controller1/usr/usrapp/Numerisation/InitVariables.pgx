@@ -6,6 +6,15 @@
   nScanningLength = 200
   nScanningWidth = 200
   nScanningLineNumber = 5
+  
+  //Limites Ref. Cartésien (utiles pour affichage interface graphique)
+  nMinHorizontal = -1000
+  nMaxHorizontal = 1000
+  nMinVertical = -883.44
+  nMaxVertical = 950
+  nMinRotation = -180
+  nMaxRotation = 180
+  
 
   //Position initiale du robot
   jRobotZeroPosition = {0, 0, 0, 0, 0, 0}

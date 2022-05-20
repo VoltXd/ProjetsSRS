@@ -7,7 +7,7 @@
     <Nodes>
       <Node Path="CellNumerisation" IsExpanded="true" />
       <Node Path="CellNumerisation\Controller1" IsExpanded="true" />
-      <Node Path="CellNumerisation\Controller1\Disk:##Numerisation#Numerisation.pjx\mdesc" IsExpanded="true" />
+      <Node Path="CellNumerisation\Controller1\Disk:##Numerisation#Numerisation.pjx" IsExpanded="true" />
     </Nodes>
   </Option>
   <Option Name="CellExplorer">
