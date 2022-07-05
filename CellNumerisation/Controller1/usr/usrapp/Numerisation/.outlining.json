@@ -24,17 +24,6 @@
     },
     {
       "mode": 3,
-      "name": "BalayageSimple",
-      "nodes": [
-        {
-          "start": 133,
-          "end": 603,
-          "isCollapsed": false
-        }
-      ]
-    },
-    {
-      "mode": 3,
       "name": "InitVariables",
       "nodes": []
     },
@@ -75,6 +64,22 @@
         {
           "start": 1214,
           "end": 1354,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "BalayageSimple",
+      "nodes": [
+        {
+          "start": 98,
+          "end": 143,
+          "isCollapsed": false
+        },
+        {
+          "start": 186,
+          "end": 672,
           "isCollapsed": false
         }
       ]

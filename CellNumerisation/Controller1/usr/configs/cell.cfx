@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <cell>
-  <String name="language" value="english" />
+  <String name="language" value="francais" />
   <Uint64 name="magicFlag" value="0" />
   <Float name="cycleTime" value="-1" />
   <Float name="val3WatchdogPeriod" value="-1" />
