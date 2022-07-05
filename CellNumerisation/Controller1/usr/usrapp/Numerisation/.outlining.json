@@ -35,11 +35,6 @@
     },
     {
       "mode": 3,
-      "name": "start",
-      "nodes": []
-    },
-    {
-      "mode": 3,
       "name": "InitVariables",
       "nodes": []
     },
@@ -47,6 +42,42 @@
       "mode": 3,
       "name": "InitInterface",
       "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "start",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "Communication",
+      "nodes": [
+        {
+          "start": 207,
+          "end": 1387,
+          "isCollapsed": false
+        },
+        {
+          "start": 317,
+          "end": 1379,
+          "isCollapsed": false
+        },
+        {
+          "start": 393,
+          "end": 1366,
+          "isCollapsed": false
+        },
+        {
+          "start": 1070,
+          "end": 1198,
+          "isCollapsed": false
+        },
+        {
+          "start": 1214,
+          "end": 1354,
+          "isCollapsed": false
+        }
+      ]
     }
   ]
 }

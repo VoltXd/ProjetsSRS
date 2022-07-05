@@ -10,4 +10,13 @@
     <Float name="timeOut" value="5" />
     <String name="flowControl" value="none" />
   </serialPort>
+  <udpSocket>
+    <String name="name" value="c1" />
+    <String name="desc" value="" />
+    <Inet name="connectIp" value="192.168.0.200" />
+    <Uint name="portNumber" value="1980" />
+    <Int name="endOfString" value="10" />
+    <Float name="timeOut" value="0" />
+    <Bool name="broadcast" value="true" />
+  </udpSocket>
 </sio>

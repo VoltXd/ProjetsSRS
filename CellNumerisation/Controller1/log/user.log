@@ -175,3 +175,16 @@
 {"entry":{"date":"2022-05-20T14:42:38","ts":"3715.743372900","type":"msg","lvl":"WARN","id":"0x5401","val":"Application has ended, pending motion was cancelled."},"hash":"b688ee45fe778b3705"}
 {"entry":{"date":"2022-05-20T14:42:38","ts":"3715.759174900","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"d9c1b61b789042f72d"}
 {"entry":{"date":"2022-05-20T14:42:38","ts":"3716.080368300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"192639bfe0caca4f83"}
+{"entry":{"date":"2022-07-05T12:10:23","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-05T13:17:02","ts":"3999.516700899","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"2f9909a67022881948"}
+{"entry":{"date":"2022-07-05T13:17:02","ts":"3999.528397199","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. IO not linked to a hardware input-output.. Communication. "},"hash":"f334d1ff5a3d0f2e69"}
+{"entry":{"date":"2022-07-05T13:17:02","ts":"3999.528425599","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 123 IO not linked to a hardware input-output.. Communication. "},"hash":"42f190c8a2deb78877"}
+{"entry":{"date":"2022-07-05T13:20:00","ts":"4177.288686799","type":"msg","lvl":"WARN","id":"0x5401","val":"Application has ended, pending motion was cancelled."},"hash":"f910dda06976991aee"}
+{"entry":{"date":"2022-07-05T13:20:00","ts":"4177.304219899","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"5ec741b59d0bee7bfd"}
+{"entry":{"date":"2022-07-05T13:20:00","ts":"4177.643727999","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"b95846678e255fd8fa"}
+{"entry":{"date":"2022-07-05T13:20:00","ts":"4177.654998799","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. IO not linked to a hardware input-output.. Communication. "},"hash":"b57d06950363e40d67"}
+{"entry":{"date":"2022-07-05T13:20:00","ts":"4177.655027000","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 123 IO not linked to a hardware input-output.. Communication. "},"hash":"5bb08a82a0bc00b790"}
+{"entry":{"date":"2022-07-05T13:23:24","ts":"4381.495906699","type":"msg","lvl":"WARN","id":"0x5401","val":"Application has ended, pending motion was cancelled."},"hash":"953f1bfb4fc72e4b82"}
+{"entry":{"date":"2022-07-05T13:23:24","ts":"4381.511014999","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"7a86c6accf5cdcd0d4"}
+{"entry":{"date":"2022-07-05T13:23:24","ts":"4381.850417599","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"f6f2013df3420390be"}
+{"entry":{"date":"2022-07-05T13:24:10","type":"run","version":"3.0.0"}}
