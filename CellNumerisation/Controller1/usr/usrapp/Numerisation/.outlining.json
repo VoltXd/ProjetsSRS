@@ -70,11 +70,6 @@
     },
     {
       "mode": 3,
-      "name": "start",
-      "nodes": []
-    },
-    {
-      "mode": 3,
       "name": "PositionUpdate",
       "nodes": [
         {
@@ -83,6 +78,11 @@
           "isCollapsed": false
         }
       ]
+    },
+    {
+      "mode": 3,
+      "name": "start",
+      "nodes": []
     }
   ]
 }
