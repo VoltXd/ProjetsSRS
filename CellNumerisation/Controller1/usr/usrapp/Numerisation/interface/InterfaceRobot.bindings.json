@@ -8,6 +8,14 @@
       "size": 1,
       "direction": "r",
       "refresh": 1
+    },
+    {
+      "id": "lblJ6_errValue",
+      "attribute": "innerHTML",
+      "data": "pCurrentPosition[0].trsf.rz",
+      "size": 1,
+      "direction": "r",
+      "refresh": 1
     }
   ],
   "callbacks": [],

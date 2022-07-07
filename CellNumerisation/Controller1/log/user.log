@@ -188,3 +188,13 @@
 {"entry":{"date":"2022-07-05T13:23:24","ts":"4381.511014999","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' stopped."},"hash":"7a86c6accf5cdcd0d4"}
 {"entry":{"date":"2022-07-05T13:23:24","ts":"4381.850417599","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' started."},"hash":"f6f2013df3420390be"}
 {"entry":{"date":"2022-07-05T13:24:10","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-05T16:04:46","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-07T08:47:51","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-07T09:07:08","ts":"1157.476353099","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' lancée."},"hash":"5ab95629fd0dc3ac50"}
+{"entry":{"date":"2022-07-07T09:07:19","ts":"1168.456982999","type":"msg","lvl":"WARN","id":"0x5401","val":"Application arrêtée, des mouvements ont été annulés."},"hash":"78df407867e6b08a52"}
+{"entry":{"date":"2022-07-07T09:07:19","ts":"1168.457026899","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' arrêtée."},"hash":"e9833c3641d2ef3e3f"}
+{"entry":{"date":"2022-07-07T09:07:19","ts":"1168.678527500","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' lancée."},"hash":"d36233e4ab2534f73f"}
+{"entry":{"date":"2022-07-07T09:07:19","ts":"1168.699551899","type":"msg","lvl":"ERROR","id":"0x5404","val":"Erreur d'exécution VAL3. Valeur invalide de paramètre d'instruction. Consultez le manuel de référence VAL3.. Numerisation~. "},"hash":"6f2ef917c93b3e7b8c"}
+{"entry":{"date":"2022-07-07T09:07:19","ts":"1168.699574300","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 70 Valeur invalide de paramètre d'instruction. Consultez le manuel de référence VAL3.. Numerisation~. "},"hash":"87e3930c49db472a5b"}
+{"entry":{"date":"2022-07-07T09:07:29","ts":"1178.603821400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' arrêtée."},"hash":"f88659d5cf0a477b8f"}
+{"entry":{"date":"2022-07-07T09:07:29","ts":"1178.824365399","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' lancée."},"hash":"e2a4777b62b80849a5"}

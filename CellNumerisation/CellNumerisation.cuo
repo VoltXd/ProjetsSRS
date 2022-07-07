@@ -8,6 +8,7 @@
       <Node Path="CellNumerisation" IsExpanded="true" />
       <Node Path="CellNumerisation\Controller1" IsExpanded="true" />
       <Node Path="CellNumerisation\Controller1\Disk:##Numerisation#Numerisation.pjx" IsExpanded="true" />
+      <Node Path="CellNumerisation\Controller1\Disk:##Numerisation#Numerisation.pjx\jointRx" IsExpanded="true" />
     </Nodes>
   </Option>
   <Option Name="CellExplorer">
@@ -44,7 +45,7 @@
   </Option>
   <Option Name="SynchronizerMode">
     <Synchronizers>
-      <Synchronizer Controller="Controller1" Mode="Emulator" />
+      <Synchronizer Controller="Controller1" Mode="Target" />
     </Synchronizers>
   </Option>
   <Option Name="Safety">

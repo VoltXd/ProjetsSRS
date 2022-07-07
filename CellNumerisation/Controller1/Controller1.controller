@@ -6,9 +6,9 @@
       <RobotSkin xmlns="http://www.staubli.com/robotics/robotskincontrollerproperty/1">TX2TOUCH_90_PRESERIAL-HB-WS</RobotSkin>
     </Property>
   </Properties>
-  <Target hostname="" name="Default">
-    <Context type="RemoteConnection" port="5653" username="default" />
-    <Context type="WebRemoteMaintenance" port="80" username="default" />
-    <Context type="VncRemoteMaintenance" port="5900" username="default" />
+  <Target hostname="192.168.0.254" name="Default">
+    <Context type="RemoteConnection" port="5653" username="default" password="eONkJR7X9icoM0CDJEIJTg==" />
+    <Context type="WebRemoteMaintenance" port="443" username="default" password="eONkJR7X9icoM0CDJEIJTg==" />
+    <Context type="VncRemoteMaintenance" port="5900" username="default" password="eONkJR7X9icoM0CDJEIJTg==" />
   </Target>
 </LocalController>

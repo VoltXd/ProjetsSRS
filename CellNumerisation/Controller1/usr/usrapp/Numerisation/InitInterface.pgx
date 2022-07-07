@@ -13,6 +13,14 @@
   userPageBind("InterfaceRobot", "lblRYValue", "innerHTML", pCurrentPosition.trsf.ry, 1, "r")
   userPageBind("InterfaceRobot", "lblRZValue", "innerHTML", pCurrentPosition.trsf.rz, 1, "r")
   
+  //Position Error Labels Bindings
+  userPageBind("InterfaceRobot", "lblJ1_errValue", "innerHTML", jCurrentJointError.j1, 1, "r")
+  userPageBind("InterfaceRobot", "lblJ2_errValue", "innerHTML", jCurrentJointError.j2, 1, "r")
+  userPageBind("InterfaceRobot", "lblJ3_errValue", "innerHTML", jCurrentJointError.j3, 1, "r")
+  userPageBind("InterfaceRobot", "lblJ4_errValue", "innerHTML", jCurrentJointError.j4, 1, "r")
+  userPageBind("InterfaceRobot", "lblJ5_errValue", "innerHTML", jCurrentJointError.j5, 1, "r")
+  userPageBind("InterfaceRobot", "lblJ6_errValue", "innerHTML", jCurrentJointError.j6, 1, "r")
+  
   //Range Number Gauge Bindings : Values
   userPageBind("InterfaceRobot", "rngX", "value", pCurrentPosition.trsf.x, 1, "r")
   userPageBind("InterfaceRobot", "rngY", "value", pCurrentPosition.trsf.y, 1, "r")

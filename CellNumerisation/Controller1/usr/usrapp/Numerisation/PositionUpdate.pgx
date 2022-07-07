@@ -3,8 +3,11 @@
   <Program name="PositionUpdate">
     <Code><![CDATA[begin
   while true
-    pCurrentPosition = here(flange, world)
-    delay(0.1)
+    jCurrentJoint = herej() 
+    jCurrentJointError = getPositionErr()
+    pCurrentPosition = jointToPoint(flange, world, jCurrentJoint - jCurrentJointError)
+    //pCurrentPosition = here(flange, world)
+    delay(0.01)
   endWhile
 end]]></Code>
   </Program>

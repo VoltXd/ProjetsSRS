@@ -13,11 +13,47 @@
     },
     {
       "mode": 3,
-      "name": "PositionUpdate",
+      "name": "BalayageSimple",
+      "nodes": [
+        {
+          "start": 98,
+          "end": 143,
+          "isCollapsed": false
+        },
+        {
+          "start": 186,
+          "end": 672,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "Communication",
       "nodes": [
         {
           "start": 8,
-          "end": 87,
+          "end": 1451,
+          "isCollapsed": false
+        },
+        {
+          "start": 226,
+          "end": 1440,
+          "isCollapsed": false
+        },
+        {
+          "start": 342,
+          "end": 1430,
+          "isCollapsed": false
+        },
+        {
+          "start": 422,
+          "end": 1415,
+          "isCollapsed": false
+        },
+        {
+          "start": 1257,
+          "end": 1401,
           "isCollapsed": false
         }
       ]
@@ -39,47 +75,11 @@
     },
     {
       "mode": 3,
-      "name": "Communication",
+      "name": "PositionUpdate",
       "nodes": [
         {
-          "start": 207,
-          "end": 1387,
-          "isCollapsed": false
-        },
-        {
-          "start": 317,
-          "end": 1379,
-          "isCollapsed": false
-        },
-        {
-          "start": 393,
-          "end": 1366,
-          "isCollapsed": false
-        },
-        {
-          "start": 1070,
-          "end": 1198,
-          "isCollapsed": false
-        },
-        {
-          "start": 1214,
-          "end": 1354,
-          "isCollapsed": false
-        }
-      ]
-    },
-    {
-      "mode": 3,
-      "name": "BalayageSimple",
-      "nodes": [
-        {
-          "start": 98,
-          "end": 143,
-          "isCollapsed": false
-        },
-        {
-          "start": 186,
-          "end": 672,
+          "start": 8,
+          "end": 248,
           "isCollapsed": false
         }
       ]

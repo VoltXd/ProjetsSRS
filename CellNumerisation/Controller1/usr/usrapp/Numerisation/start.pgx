@@ -4,7 +4,7 @@
     <Code><![CDATA[begin
   call InitVariables()
   taskCreate "PositionUpdate", 10, PositionUpdate()
-  taskCreateSync "Communication", 0.004, bOverrun, Communication()
+  taskCreateSync "Communication", 0.0005, bOverrun, Communication()
   call InitInterface()
   call Deplacements()
 end]]></Code>

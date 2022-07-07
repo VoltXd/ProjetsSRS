@@ -2,39 +2,41 @@
 <Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
   <Program name="Communication">
     <Code><![CDATA[begin
-  // Attente d'une demande d'acquisition (0xFE = 254). Quand on reçoit la demande, on attend une demande de position (0x01 = 1) ou de fin d'acquisition (0xEF = 239). 
-  nReceivedByte = sioSockets_c1
-  if nReceivedByte == 254
-    // Demande d'acquisition reçu on commence
-    bAcquisitionStarted = true
+  while true
+    // Attente d'une demande d'acquisition (0xFE = 254). Quand on reçoit la demande, on attend une demande de position (0x01 = 1) ou de fin d'acquisition (0xEF = 239). 
+    nReceivedByte = sioSockets_c1
+    if nReceivedByte == 254
+      // Demande d'acquisition reçu on commence
+      bAcquisitionStarted = true
     
-    while bAcquisitionStarted == true
-      nReceivedByte = sioSockets_c1
-      if nReceivedByte == 1
-        // Demande de position, on envoie pCurrentPosition
-        nCurrentPositionArray[0] = pCurrentPosition.trsf.x
-        nCurrentPositionArray[1] = pCurrentPosition.trsf.y
-        nCurrentPositionArray[2] = pCurrentPosition.trsf.z
-        nCurrentPositionArray[3] = pCurrentPosition.trsf.rx
-        nCurrentPositionArray[4] = pCurrentPosition.trsf.ry
-        nCurrentPositionArray[5] = pCurrentPosition.trsf.rz
+      while bAcquisitionStarted == true
+        nReceivedByte = sioSockets_c1
+        if nReceivedByte == 1
+          // Demande de position, on envoie pCurrentPosition
+          nCurrentPositionArray[0] = pCurrentPosition.trsf.x
+          nCurrentPositionArray[1] = pCurrentPosition.trsf.y
+          nCurrentPositionArray[2] = pCurrentPosition.trsf.z
+          nCurrentPositionArray[3] = pCurrentPosition.trsf.rx
+          nCurrentPositionArray[4] = pCurrentPosition.trsf.ry
+          nCurrentPositionArray[5] = pCurrentPosition.trsf.rz
         
-        // Passage en binaire
-        toBinary(nCurrentPositionArray, 6, "4.0b", nBinaryPositionArray)
+          // Passage en binaire
+          toBinary(nCurrentPositionArray, 6, "4.0b", nBinaryPositionArray)
         
-        // Envoi (2 start bytes (0xFE 0x7F + message)
-        sioSockets_c1 = 254
-        sioSockets_c1 = 127
-        for nBinaryPositionArrayIndex = 0 to 23
-          sioSockets_c1 = nBinaryPositionArray[nBinaryPositionArrayIndex]
-        endFor
+          // Envoi (2 start bytes (0xFE 0x7F + message)
+          sioSockets_c1 = 254
+          sioSockets_c1 = 127
+          //for nBinaryPositionArrayIndex = 0 to 23
+          sioSet(sioSockets_c1, nBinaryPositionArray)
+//          endFor
         
-      elseIf nReceivedByte == 239
-        // Demande de fin d'acquisition reçu. On ne repart pas pour un tour.
-        bAcquisitionStarted = false
-      endIf
-    endWhile
-  endIf
+        elseIf nReceivedByte == 239
+          // Demande de fin d'acquisition reçu. On ne repart pas pour un tour.
+          bAcquisitionStarted = false
+        endIf
+      endWhile
+    endIf
+  endWhile
 end]]></Code>
   </Program>
 </Programs>
