@@ -198,3 +198,8 @@
 {"entry":{"date":"2022-07-07T09:07:19","ts":"1168.699574300","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 70 Valeur invalide de paramètre d'instruction. Consultez le manuel de référence VAL3.. Numerisation~. "},"hash":"87e3930c49db472a5b"}
 {"entry":{"date":"2022-07-07T09:07:29","ts":"1178.603821400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Numerisation' arrêtée."},"hash":"f88659d5cf0a477b8f"}
 {"entry":{"date":"2022-07-07T09:07:29","ts":"1178.824365399","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' lancée."},"hash":"e2a4777b62b80849a5"}
+{"entry":{"date":"2022-07-07T09:50:13","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-13T18:12:42","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-15T11:40:48","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-15T11:42:49","ts":"120.583682000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Numerisation' lancée."},"hash":"baff5701f1d0354e3d"}
+{"entry":{"date":"2022-07-15T17:36:35","type":"run","version":"3.0.0"}}

@@ -1,48 +1,117 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Data/2">
   <Datas>
-    <Data name="mNomSpeed" access="private" xsi:type="array" type="mdesc" size="1" />
-    <Data name="jInitialPosition" access="private" xsi:type="array" type="jointRx" size="1" />
-    <Data name="jRobotZeroPosition" access="private" xsi:type="array" type="jointRx" size="1" />
-    <Data name="pRobotZeroPosition" access="private" xsi:type="array" type="pointRx" size="1">
-      <Value key="0" fatherId="world[0]" />
+    <Data name="bAcquisitionStarted" access="private" xsi:type="array" type="bool" size="1">
+      <Value key="0" value="true" />
     </Data>
-    <Data name="pInitialPosition" access="private" xsi:type="array" type="pointRx" size="1">
-      <Value key="0" fatherId="world[0]" />
+    <Data name="bOverrun" access="private" xsi:type="array" type="bool" size="1">
     </Data>
-    <Data name="nScanningWidth" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="nScanningLineNumber" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="pNextPosition" access="private" xsi:type="array" type="pointRx" size="1">
-      <Value key="0" fatherId="world[0]" />
+    <Data name="jCurrentJoint" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j1="-9.566067" j2="37.23348" j3="99.811939" j4="1.059303e-14" j5="42.95458" j6="-9.566067" />
     </Data>
-    <Data name="nScanningLength" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="nNextPositionX" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="pInitialPositionRepos" access="private" xsi:type="array" type="pointRx" size="1">
-      <Value key="0" fatherId="world[0]" />
+    <Data name="jCurrentJointError" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j1="0.00111051" j2="-0.000418031" j3="-0.000552065" j4="-0.00000679927" j5="-0.000103346" j6="0.000911689" />
+    </Data>
+    <Data name="jInitialPosition" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j2="37.32" j3="99.65" j5="43.03" />
+    </Data>
+    <Data name="jInitialPositionRepos" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j2="28.35" j3="97.17" j5="54.5" />
+    </Data>
+    <Data name="jRobotZeroPosition" access="private" xsi:type="array" type="jointRx" size="1">
+      <Value key="0" j6="90" />
+    </Data>
+    <Data name="mNomSpeed" access="private" xsi:type="array" type="mdesc" size="1">
+    </Data>
+    <Data name="nBinaryPositionArray" access="private" xsi:type="array" type="num" size="24">
+      <Value key="0" value="68" />
+      <Value key="1" value="21" />
+      <Value key="2" value="43" />
+      <Value key="3" value="8" />
+      <Value key="4" value="194" />
+      <Value key="5" value="71" />
+      <Value key="6" value="116" />
+      <Value key="7" value="129" />
+      <Value key="8" value="194" />
+      <Value key="9" value="145" />
+      <Value key="10" value="94" />
+      <Value key="11" value="130" />
+      <Value key="12" value="57" />
+      <Value key="13" value="16" />
+      <Value key="14" value="130" />
+      <Value key="15" value="243" />
+      <Value key="16" value="195" />
+      <Value key="17" value="51" />
+      <Value key="18" value="255" />
+      <Value key="19" value="204" />
+      <Value key="20" value="57" />
+      <Value key="21" value="54" />
+      <Value key="22" value="234" />
+      <Value key="23" value="129" />
+    </Data>
+    <Data name="nBinaryPositionArrayIndex" access="private" xsi:type="array" type="num" size="1">
+    </Data>
+    <Data name="nCurrentPositionArray" access="private" xsi:type="array" type="num" size="6">
+      <Value key="0" value="596.672343" />
+      <Value key="1" value="-49.863772" />
+      <Value key="2" value="-72.684587" />
+      <Value key="3" value="0.000137817" />
+      <Value key="4" value="-179.999203" />
+      <Value key="5" value="0.000174442" />
+    </Data>
+    <Data name="nMaxHorizontal" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="1000" />
+    </Data>
+    <Data name="nMaxRotation" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="180" />
+    </Data>
+    <Data name="nMaxVertical" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="950" />
+    </Data>
+    <Data name="nMinHorizontal" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="-1000" />
+    </Data>
+    <Data name="nMinRotation" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="-180" />
+    </Data>
+    <Data name="nMinVertical" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="-883.44" />
+    </Data>
+    <Data name="nNextPositionX" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="737.67" />
+    </Data>
+    <Data name="nReceivedByte" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="10" />
+    </Data>
+    <Data name="nScanningLength" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="200" />
+    </Data>
+    <Data name="nScanningLineNumber" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="5" />
+    </Data>
+    <Data name="nScanningWidth" access="private" xsi:type="array" type="num" size="1">
+      <Value key="0" value="200" />
     </Data>
     <Data name="pCircle" access="private" xsi:type="array" type="pointRx" size="1">
-      <Value key="0" fatherId="world[0]" />
+      <Value key="0" x="497.67" y="50" z="-72.68" rx="-180" rz="-180" shoulder="sfree" elbow="efree" wrist="wfree" fatherId="world[0]" />
     </Data>
-    <Data name="jInitialPositionRepos" access="private" xsi:type="array" type="jointRx" size="1" />
     <Data name="pCurrentPosition" access="private" xsi:type="array" type="pointRx" size="1">
-      <Value key="0" fatherId="world[0]" />
+      <Value key="0" x="596.760773" y="-49.877677" z="-72.686767" rx="0.000182979" ry="-179.998942" rz="0.000203803" shoulder="lefty" elbow="epositive" wrist="wpositive" fatherId="world[0]" />
     </Data>
-    <Data name="nMaxVertical" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="nMinVertical" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="nMinHorizontal" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="nMaxHorizontal" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="nMinRotation" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="nMaxRotation" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="nReceivedByte" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="bAcquisitionStarted" access="private" xsi:type="array" type="bool" size="1" />
-    <Data name="nCurrentPositionArray" access="private" xsi:type="array" type="num" size="6" />
-    <Data name="nBinaryPositionArray" access="private" xsi:type="array" type="num" size="24" />
-    <Data name="nBinaryPositionArrayIndex" access="private" xsi:type="array" type="num" size="1" />
-    <Data name="bOverrun" access="private" xsi:type="array" type="bool" size="1" />
+    <Data name="pInitialPosition" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="597.67" y="50" z="-72.68" rx="-180" rz="-180" shoulder="sfree" elbow="efree" wrist="wfree" fatherId="world[0]" />
+    </Data>
+    <Data name="pInitialPositionRepos" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="597.67" y="50" z="27.32" rx="-180" rz="-180" shoulder="sfree" elbow="efree" wrist="wfree" fatherId="world[0]" />
+    </Data>
+    <Data name="pNextPosition" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="597.67" y="-50" z="-72.68" rx="-180" rz="-180" shoulder="sfree" elbow="efree" wrist="wfree" fatherId="world[0]" />
+    </Data>
+    <Data name="pRobotZeroPosition" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" x="50" y="50" z="950" shoulder="sfree" elbow="efree" wrist="wfree" fatherId="world[0]" />
+    </Data>
     <Data name="sioSockets_c1" access="public" xsi:type="array" type="sio" size="1">
       <Value key="0" link="UdpSocket\c1" />
     </Data>
-    <Data name="jCurrentJointError" access="private" xsi:type="array" type="jointRx" size="1" />
-    <Data name="jCurrentJoint" access="private" xsi:type="array" type="jointRx" size="1" />
   </Datas>
 </Database>

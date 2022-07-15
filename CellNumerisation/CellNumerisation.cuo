@@ -45,7 +45,7 @@
   </Option>
   <Option Name="SynchronizerMode">
     <Synchronizers>
-      <Synchronizer Controller="Controller1" Mode="Target" />
+      <Synchronizer Controller="Controller1" Mode="Emulator" />
     </Synchronizers>
   </Option>
   <Option Name="Safety">

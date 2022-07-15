@@ -60,11 +60,6 @@
     },
     {
       "mode": 3,
-      "name": "InitVariables",
-      "nodes": []
-    },
-    {
-      "mode": 3,
       "name": "InitInterface",
       "nodes": []
     },
@@ -82,6 +77,11 @@
     {
       "mode": 3,
       "name": "start",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "InitVariables",
       "nodes": []
     }
   ]

@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
-  <Program name="PositionUpdate">
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="PositionUpdate" access="private" >
     <Code><![CDATA[begin
   while true
-    jCurrentJoint = herej() 
-    jCurrentJointError = getPositionErr()
-    pCurrentPosition = jointToPoint(flange, world, jCurrentJoint - jCurrentJointError)
+    jCurrentJoint=herej()
+    jCurrentJointError=getPositionErr()
+    pCurrentPosition=jointToPoint(flange,world,jCurrentJoint-jCurrentJointError)
     //pCurrentPosition = here(flange, world)
     delay(0.01)
   endWhile

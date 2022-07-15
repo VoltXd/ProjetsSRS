@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
-  <Program name="Deplacements">
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="Deplacements" access="private" >
     <Code><![CDATA[begin
   //Déplacement vers la position initiale du robot, sert uniquement lors des simulations
-  movej(pRobotZeroPosition, flange, mNomSpeed)
-  
+  movej(pRobotZeroPosition,flange,mNomSpeed)
+
   //Déplacement vers une position initiale de numérisation
   //movel(pInitialPosition, flange, mNomSpeed)
   //waitEndMove()
-  
+
   while true
     //Décalage vers le haut
-    movel(pInitialPositionRepos, flange, mNomSpeed)
+    movel(pInitialPositionRepos,flange,mNomSpeed)
     waitEndMove()
-      
+
     //Execution d'un balayage de surface
     call BalayageSimple()
   endWhile

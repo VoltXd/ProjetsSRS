@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project xmlns="http://www.staubli.com/robotics/VAL3/Project/3">
-  <Parameters version="s8.10.3Cs9_BS2093" stackSize="5000" millimeterUnit="true" />
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project xmlns="http://www.staubli.com/robotics/VAL3/Project/3" >
+  <Parameters version="s8.12.1cs9_BS2449" stackSize="200000" millimeterUnit="true" />
   <Programs>
     <Program file="BalayageSimple.pgx" />
     <Program file="Communication.pgx" />
@@ -14,5 +14,8 @@
   <Database>
     <Data file="Numerisation.dtx" />
   </Database>
-  <Libraries />
+  <Libraries>
+  </Libraries>
+  <Types>
+  </Types>
 </Project>

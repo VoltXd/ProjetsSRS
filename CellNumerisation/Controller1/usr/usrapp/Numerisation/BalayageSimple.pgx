@@ -1,25 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
-  <Program name="BalayageSimple">
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="BalayageSimple" access="private" >
     <Code><![CDATA[begin
   //Rappel : pInitialPosition = {{597.67, 50, -72.68,-180,0,-180}, {sfree, efree, wfree}}
-  while bAcquisitionStarted == false
+  while bAcquisitionStarted==false
   endWhile
-  
-  pNextPosition = pInitialPosition
-    for nNextPositionX = pInitialPosition.trsf.x - nScanningLength/2 to pInitialPosition.trsf.x + nScanningLength/2 step nScanningLength / nScanningLineNumber
-      pNextPosition.trsf.y = pInitialPosition.trsf.y - nScanningWidth/2
-      pNextPosition.trsf.x = nNextPositionX 
-      movel(pNextPosition, flange, mNomSpeed)
-      waitEndMove()
-      pNextPosition.trsf.y = pInitialPosition.trsf.y + nScanningWidth/2
-      movel(pNextPosition, flange, mNomSpeed)
-      waitEndMove()
-    endFor
-    pNextPosition.trsf.x = pInitialPosition.trsf.x
-    pNextPosition.trsf.y = pInitialPosition.trsf.y - nScanningWidth/2
-    movec(pCircle,pNextPosition,flange,mNomSpeed)
+
+  pNextPosition=pInitialPosition
+  for nNextPositionX=pInitialPosition.trsf.x-nScanningLength/2 to pInitialPosition.trsf.x+nScanningLength/2 step nScanningLength/nScanningLineNumber
+    pNextPosition.trsf.y=pInitialPosition.trsf.y-nScanningWidth/2
+    pNextPosition.trsf.x=nNextPositionX
+    movel(pNextPosition,flange,mNomSpeed)
     waitEndMove()
+    pNextPosition.trsf.y=pInitialPosition.trsf.y+nScanningWidth/2
+    movel(pNextPosition,flange,mNomSpeed)
+    waitEndMove()
+  endFor
+  pNextPosition.trsf.x=pInitialPosition.trsf.x
+  pNextPosition.trsf.y=pInitialPosition.trsf.y-nScanningWidth/2
+  movec(pCircle,pNextPosition,flange,mNomSpeed)
+  waitEndMove()
 end]]></Code>
   </Program>
 </Programs>

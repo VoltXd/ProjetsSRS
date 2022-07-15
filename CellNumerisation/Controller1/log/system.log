@@ -1537,3 +1537,314 @@
 {"entry":{"date":"2022-07-07T09:07:29","ts":"1178.599339199","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"f9ff191554fa32ff8a"}
 {"entry":{"date":"2022-07-07T09:07:29","ts":"1178.599570399","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"7c8d6d2514afe875b6"}
 {"entry":{"date":"2022-07-07T09:07:29","ts":"1178.934131399","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 59376 id=#3"},"hash":"875ab642174c1acb8e"}
+{"entry":{"date":"2022-07-07T09:50:13","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.094192699","type":"msg","lvl":"INFO","id":"0x0003","val":"Cycle time set to 0.004s"},"hash":"3df6341d6047292fb7"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.094203599","type":"msg","lvl":"INFO","id":"0x0003","val":"Simulation cycle time set to 0.01s"},"hash":"44c7e9b2d73cfbe3e3"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.094213699","type":"msg","lvl":"WARN","id":"0x0002","val":"Controller IP address could not be updated"},"hash":"c6fd8cf1596e992bbc"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.094217799","type":"msg","lvl":"WARN","id":"0x0002","val":"Controller IP address 2 could not be updated"},"hash":"754abeb75a1718b70c"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.095398699","type":"msg","lvl":"INFO","id":"0x0003","val":"Building simulated Hilscher IOs..."},"hash":"a79f855188b2e3a97f"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.095606299","type":"msg","lvl":"WARN","id":"0x0002","val":"No Hilscher interface added"},"hash":"ba2000917043ed6c21"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.097144899","type":"msg","lvl":"INFO","id":"0x0003","val":"(DEV) Build simulated calibration"},"hash":"9834a5c4c7f00b0276"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.097359799","type":"msg","lvl":"WARN","id":"0x0002","val":"No file describing the safety program structure found. The default structure will be used."},"hash":"4ab58444c5c473ba15"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.097506499","type":"msg","lvl":"WARN","id":"0x0002","val":"No safe speed monitoring simulation file found."},"hash":"dd3e7512c9ea0a24f3"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.097672299","type":"msg","lvl":"WARN","id":"0x0002","val":"Default user payload used."},"hash":"57487fd74f9c144707"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.097689899","type":"msg","lvl":"INFO","id":"0x0003","val":"Payload default: mass=6 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.016 yy=0.013 zz=0.011 kg.m^2"},"hash":"58d18a2292876e695f"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.097773399","type":"msg","lvl":"INFO","id":"0x0003","val":"Build Cell Done"},"hash":"88d102b29555e47541"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.099847099","type":"msg","lvl":"INFO","id":"0x2401","val":"Compteur puissance = 2:32:20"},"hash":"5b0029e5ee21f1f770"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.099899799","type":"msg","lvl":"INFO","id":"0x2401","val":"Adresse Mac = 00-be-43-8c-d1-fe (J204)"},"hash":"58dc7fce9c519c789b"}
+{"entry":{"val":"End of arm power shutdown phase.","date":"2022-07-07T09:50:13","ts":"0.119983099","type":"key","lvl":"INFO","id":"0x1602"},"hash":"88b91709f23aa323d9"}
+{"entry":{"val":"Safety board status changed to %s.","data":[{"val":"STATUS_RUNNING"}],"date":"2022-07-07T09:50:13","ts":"0.120046799","type":"key","lvl":"INFO","id":"0x5909"},"hash":"a33489dcf7a77418a1"}
+{"entry":{"val":"Safety board ready.","date":"2022-07-07T09:50:13","ts":"0.120051899","type":"key","lvl":"INFO","id":"0x5901"},"hash":"1f58d67fc3a0fd5420"}
+{"entry":{"val":"Refresh position started for all axes.","date":"2022-07-07T09:50:13","ts":"0.139999999","type":"key","lvl":"INFO","id":"0x151D"},"hash":"5f05d36a9f1ae762ab"}
+{"entry":{"val":"Refresh position succeeded.","date":"2022-07-07T09:50:13","ts":"0.155389799","type":"key","lvl":"INFO","id":"0x151E"},"hash":"3b387cc2218f3ec476"}
+{"entry":{"val":"Robot joint position at boot: %s","data":[{"val":"?, ?, ?, ?, ?, ?"}],"date":"2022-07-07T09:50:13","ts":"0.155401699","type":"key","lvl":"INFO","id":"0x3F33"},"hash":"6d9368d03c4a4a6de3"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.159794599","type":"msg","lvl":"INFO","id":"0x0003","val":"COM-PC: server created on all interfaces [851]"},"hash":"39cc56f55120405417"}
+{"entry":{"val":"REST server created [%d].","data":[{"val":852}],"date":"2022-07-07T09:50:13","ts":"0.166444099","type":"key","lvl":"INFO","id":"0x7801"},"hash":"8cf9965996ca79a3ed"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166748199","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Mounting: floor"},"hash":"03195cbd2e992e0562"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166751299","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Name: ?"},"hash":"efa09497507f362b4c"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166752899","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm OilType: ?"},"hash":"9cd04a232bf2500d9d"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166758199","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm S/N: ?"},"hash":"b274a5bb6d742cbc9d"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166761199","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Tuning: R1-V1"},"hash":"0cad044f51408ffdee"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166763899","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Type: tx2touch_90-S3"},"hash":"2416698305141425e1"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166766700","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Version: tx2touch_90-S3-R1-V1"},"hash":"a1c2b4cc41a6f68bf5"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166772899","type":"msg","lvl":"INFO","id":"0x2401","val":"CFAST P/N: DXXXXXXXX"},"hash":"f030b5d7c91942a55a"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166776199","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Hardware revision: 0"},"hash":"2234ec0620e01efed9"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166778699","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Name: NA"},"hash":"7ac2c79fa4ea6c0aad"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166780999","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT O/N: 0"},"hash":"c51313b70a22dd122d"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166783299","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT P/N: DXXXXXXXX"},"hash":"1a8782ee87e771e0ec"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166785499","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT S/N: 0"},"hash":"a36a853af8caee4d10"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166788599","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU Board: TEKNOR 3696MHz; 32768MB RAM; ?MB disk"},"hash":"e04447bc068743ef5b"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166791099","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL BIOS: ?"},"hash":"541b8be35203b6195d"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166793199","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL FPGA: ?"},"hash":"17189051386c18e1a6"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166796099","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL Hardware revision: 0"},"hash":"49dcebe8a1d2da391c"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166798499","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL MMI: ?"},"hash":"06600b2b4fdf35225c"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166800599","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL O/N: 0"},"hash":"1df7384a9cbbc87374"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166802799","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL S/N: 0"},"hash":"7402d3977bebbef832"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166805299","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL SDK: NA"},"hash":"b1394a878c4010c755"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166807899","type":"msg","lvl":"INFO","id":"0x2401","val":"CS9Logical P/N: DXXXXXXXX"},"hash":"2f1ae8dde922a51b39"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166810800","type":"msg","lvl":"INFO","id":"0x2401","val":"Configuration Version: c2.034"},"hash":"095d95d9bb6bf1c14b"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166813399","type":"msg","lvl":"INFO","id":"0x2401","val":"Controller S/N: ?"},"hash":"ef7be2dbc0a1b8ba0c"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166815999","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Firmware: 0.1.1.66"},"hash":"db49b48f7aecd34c5e"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166818699","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Name: D3-SMM 362/A-0250-00"},"hash":"2a48830d2640807c1d"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166820999","type":"msg","lvl":"INFO","id":"0x2401","val":"Option VAL 3: enabled"},"hash":"433affe39772064a75"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166823699","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC Configuration: ?"},"hash":"f8a65e24d8a64c8767"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166826100","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC Name: ?"},"hash":"42e22abfdd289ab8a5"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166828499","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC System: ?"},"hash":"c17bfb1f21adace984"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166831599","type":"msg","lvl":"INFO","id":"0x2401","val":"PowerSupply Name: URPS 9.1 325VDC 3P"},"hash":"d81e34d5b63d5b9056"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166834099","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Date: Jun  2 2020"},"hash":"59a62ede86d2eceb13"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166836799","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Time: 14:34:49"},"hash":"0781ff1c7114509ea5"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166839499","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Version: s8.10.3cs9_BS2093"},"hash":"0bdab9a1ecd117ed5e"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166842499","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Configuration CRC: 169788671"},"hash":"8e3d1dfe3ee0674701"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166844999","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Firmware: 2.0.0.3"},"hash":"0d0326131d820b26d0"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166847799","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Program CRC: 450852226"},"hash":"f796d11ac1e9b8002a"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166850399","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Software: 0.030"},"hash":"1c3540fcb3136dec24"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166852899","type":"msg","lvl":"INFO","id":"0x2401","val":"SP2 Software: 2.2.8 / 0ba35d077eea (stable) tip"},"hash":"760e505e37a13b5ae6"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166855699","type":"msg","lvl":"INFO","id":"0x2401","val":"System: s8.10.3cs9_BS2093"},"hash":"a1ea429e78da9cf077"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166858199","type":"msg","lvl":"INFO","id":"0x2401","val":"System CycleTime: 0.004s"},"hash":"21550c7e242fb12f61"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166860799","type":"msg","lvl":"INFO","id":"0x2401","val":"System Date: Jun  2 2020"},"hash":"ffcce22fd3e7e23e22"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166863299","type":"msg","lvl":"INFO","id":"0x2401","val":"System OS: Windows"},"hash":"313a891da53f7f0515"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.166865499","type":"msg","lvl":"INFO","id":"0x2401","val":"System Time: 14:37:05"},"hash":"17864892f06eed49f2"}
+{"entry":{"val":"New profile : %s.","data":[{"val":"default"}],"date":"2022-07-07T09:50:13","ts":"0.167208099","type":"key","lvl":"INFO","id":"0x2201"},"hash":"eabe767d5d975aea5e"}
+{"entry":{"date":"2022-07-07T09:50:13","ts":"0.170660699","type":"msg","lvl":"INFO","id":"0x2401","val":"End of controller initialization"},"hash":"c0f5970a41f312c5ca"}
+{"entry":{"val":"Working mode : automatic.","date":"2022-07-07T09:50:13","ts":"0.219287899","type":"key","lvl":"INFO","id":"0x1801"},"hash":"6a6dfd7bd02ac395f6"}
+{"entry":{"val":"SP2 pendant is connected.","date":"2022-07-07T09:50:17","ts":"3.917494999","type":"key","lvl":"INFO","id":"0x2801"},"hash":"30abe958e21d17c110"}
+{"entry":{"val":"Saving controller context...","date":"2022-07-07T09:50:18","ts":"5.199340099","type":"key","lvl":"INFO","id":"0x5B01"},"hash":"d3316a979c133e1167"}
+{"entry":{"val":"CPU temperature: %g degC","data":[{"val":50.000000000}],"date":"2022-07-07T09:50:18","ts":"5.204312099","type":"key","lvl":"INFO","id":"0x5B02"},"hash":"18b1ae0337e4af55a6"}
+{"entry":{"val":"Baseboard temperature: %g degC","data":[{"val":40.000000000}],"date":"2022-07-07T09:50:18","ts":"5.204315499","type":"key","lvl":"INFO","id":"0x5B03"},"hash":"3c4da4f9371bb6f172"}
+{"entry":{"val":"CPU fan speed: %g RPM","data":[{"val":4000.000000000}],"date":"2022-07-07T09:50:18","ts":"5.204316399","type":"key","lvl":"INFO","id":"0x5B04"},"hash":"09732e5373317fc5f2"}
+{"entry":{"val":"CPU Battery is OK","date":"2022-07-07T09:50:18","ts":"5.204320499","type":"key","lvl":"INFO","id":"0x5B05"},"hash":"6cf45976de6420eb0b"}
+{"entry":{"val":"No CPU Overcurrent.","date":"2022-07-07T09:50:18","ts":"5.204322999","type":"key","lvl":"INFO","id":"0x5B07"},"hash":"aa19b142bb84e9eef7"}
+{"entry":{"date":"2022-07-13T18:12:42","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-13T18:12:42","ts":"0.135477299","type":"msg","lvl":"INFO","id":"0x0003","val":"Cycle time set to 0.004s"},"hash":"758f0df5a5dc6141ae"}
+{"entry":{"date":"2022-07-13T18:12:42","ts":"0.135488599","type":"msg","lvl":"INFO","id":"0x0003","val":"Simulation cycle time set to 0.01s"},"hash":"d5b1c47328b3f44149"}
+{"entry":{"date":"2022-07-13T18:12:42","ts":"0.135499999","type":"msg","lvl":"WARN","id":"0x0002","val":"Controller IP address could not be updated"},"hash":"0d13ccf24ef0d95028"}
+{"entry":{"date":"2022-07-13T18:12:42","ts":"0.135504299","type":"msg","lvl":"WARN","id":"0x0002","val":"Controller IP address 2 could not be updated"},"hash":"648d9943f42466f942"}
+{"entry":{"date":"2022-07-13T18:12:42","ts":"0.138606499","type":"msg","lvl":"INFO","id":"0x0003","val":"Building simulated Hilscher IOs..."},"hash":"b518bf56519a73aa09"}
+{"entry":{"date":"2022-07-13T18:12:42","ts":"0.139287299","type":"msg","lvl":"WARN","id":"0x0002","val":"No Hilscher interface added"},"hash":"54a2b22e4f2e129085"}
+{"entry":{"date":"2022-07-13T18:12:42","ts":"0.141940499","type":"msg","lvl":"INFO","id":"0x0003","val":"(DEV) Build simulated calibration"},"hash":"13eab9272720e96fc7"}
+{"entry":{"date":"2022-07-13T18:12:42","ts":"0.143983699","type":"msg","lvl":"WARN","id":"0x0002","val":"No file describing the safety program structure found. The default structure will be used."},"hash":"2322191d47903318cf"}
+{"entry":{"date":"2022-07-13T18:12:42","ts":"0.146315500","type":"msg","lvl":"WARN","id":"0x0002","val":"No safe speed monitoring simulation file found."},"hash":"827fc697b91a50e77a"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"0.146524600","type":"msg","lvl":"WARN","id":"0x0002","val":"Default user payload used."},"hash":"5055285164d86fe4bf"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"0.146543099","type":"msg","lvl":"INFO","id":"0x0003","val":"Payload default: mass=6 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.016 yy=0.013 zz=0.011 kg.m^2"},"hash":"df4cfd72188803b1d2"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"0.146646599","type":"msg","lvl":"INFO","id":"0x0003","val":"Build Cell Done"},"hash":"685550128f146688e1"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"0.155810200","type":"msg","lvl":"INFO","id":"0x2401","val":"Compteur puissance = 2:32:20"},"hash":"7610786412db87e5d3"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"0.155881000","type":"msg","lvl":"INFO","id":"0x2401","val":"Adresse Mac = 00-be-43-8c-d1-fe (J204)"},"hash":"02455cac3444c32151"}
+{"entry":{"val":"End of arm power shutdown phase.","date":"2022-07-13T18:12:43","ts":"0.507910199","type":"key","lvl":"INFO","id":"0x1602"},"hash":"43fe3ae5840343ab41"}
+{"entry":{"val":"Safety board status changed to %s.","data":[{"val":"STATUS_RUNNING"}],"date":"2022-07-13T18:12:43","ts":"0.507978900","type":"key","lvl":"INFO","id":"0x5909"},"hash":"cb8990801354c2560c"}
+{"entry":{"val":"Safety board ready.","date":"2022-07-13T18:12:43","ts":"0.507980299","type":"key","lvl":"INFO","id":"0x5901"},"hash":"52ad792460bdb60ab2"}
+{"entry":{"val":"Refresh position started for all axes.","date":"2022-07-13T18:12:43","ts":"0.527976400","type":"key","lvl":"INFO","id":"0x151D"},"hash":"ebb66edcf92eba336b"}
+{"entry":{"val":"Refresh position succeeded.","date":"2022-07-13T18:12:43","ts":"0.543344999","type":"key","lvl":"INFO","id":"0x151E"},"hash":"0b70e51b0aa8ad44dc"}
+{"entry":{"val":"Robot joint position at boot: %s","data":[{"val":"?, ?, ?, ?, ?, ?"}],"date":"2022-07-13T18:12:43","ts":"0.543353200","type":"key","lvl":"INFO","id":"0x3F33"},"hash":"7af2d1f2d783479532"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"0.546839099","type":"msg","lvl":"INFO","id":"0x0003","val":"COM-PC: server created on all interfaces [851]"},"hash":"c8b270371d42b75b3c"}
+{"entry":{"val":"REST server created [%d].","data":[{"val":852}],"date":"2022-07-13T18:12:43","ts":"1.028827599","type":"key","lvl":"INFO","id":"0x7801"},"hash":"0411a9e9ca62d0012c"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029168999","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Mounting: floor"},"hash":"4e1529718c6d796d6a"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029172500","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Name: ?"},"hash":"926e5e09ed3d837bdd"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029174000","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm OilType: ?"},"hash":"c4ea45a8720b45b172"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029179499","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm S/N: ?"},"hash":"39767702288314a85f"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029182399","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Tuning: R1-V1"},"hash":"31588e1a5fd6e3be66"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029185199","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Type: tx2touch_90-S3"},"hash":"616a1bffe63fd72029"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029188099","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Version: tx2touch_90-S3-R1-V1"},"hash":"4d035d9b2bb12ddd15"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029191099","type":"msg","lvl":"INFO","id":"0x2401","val":"CFAST P/N: DXXXXXXXX"},"hash":"946a0e8417ecc1c9e8"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029194200","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Hardware revision: 0"},"hash":"d2ed18045a2afd4deb"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029196800","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Name: NA"},"hash":"e944fc07cc03f0dbb1"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029199300","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT O/N: 0"},"hash":"688dc8e3230574ee98"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029201600","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT P/N: DXXXXXXXX"},"hash":"5ef2aa6fe04cd2d300"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029203999","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT S/N: 0"},"hash":"4e82a8d552a217db52"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029207100","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU Board: TEKNOR 3696MHz; 32768MB RAM; ?MB disk"},"hash":"821421244539bd06ef"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029209499","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL BIOS: ?"},"hash":"3615737d16a5a518f6"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029212200","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL FPGA: ?"},"hash":"4286d35dc0027ce888"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029215200","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL Hardware revision: 0"},"hash":"0b8621ea183e99bf6c"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029217500","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL MMI: ?"},"hash":"d30123998e387ea91f"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029219699","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL O/N: 0"},"hash":"1acd10ae60b022ee36"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029222000","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL S/N: 0"},"hash":"ab6bc147cebbaef20d"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029224399","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL SDK: NA"},"hash":"155b06e1e670479475"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029227100","type":"msg","lvl":"INFO","id":"0x2401","val":"CS9Logical P/N: DXXXXXXXX"},"hash":"6dfd872169d1a034e1"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029230100","type":"msg","lvl":"INFO","id":"0x2401","val":"Configuration Version: c2.034"},"hash":"8b689d71e60278b400"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029232600","type":"msg","lvl":"INFO","id":"0x2401","val":"Controller S/N: ?"},"hash":"64dfd7f3d4543678b3"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029235299","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Firmware: 0.1.1.66"},"hash":"0c900dbcffe3125300"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029238000","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Name: D3-SMM 362/A-0250-00"},"hash":"7afbdfe0333df046cc"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029240700","type":"msg","lvl":"INFO","id":"0x2401","val":"Option VAL 3: enabled"},"hash":"68a93b9ed0bac718af"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029243500","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC Configuration: ?"},"hash":"e337c4f4fcc7ec79f9"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029246000","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC Name: ?"},"hash":"b61130a608f2c4a503"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029248300","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC System: ?"},"hash":"bb4b792ea6ddc609c6"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029251199","type":"msg","lvl":"INFO","id":"0x2401","val":"PowerSupply Name: URPS 9.1 325VDC 3P"},"hash":"0e4b3c64e6683dfc48"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029254100","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Date: Jun  2 2020"},"hash":"f5c75e407824830431"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029256700","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Time: 14:34:49"},"hash":"a636f78b9aa0d3ec62"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029259899","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Version: s8.10.3cs9_BS2093"},"hash":"57a0fdac7f6ad5a523"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029262599","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Configuration CRC: 169788671"},"hash":"a4c20dc053c6a11efb"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029265099","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Firmware: 2.0.0.3"},"hash":"31c3fadded040b8a51"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029267800","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Program CRC: 450852226"},"hash":"b71e7ebb79cdaf546b"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029270300","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Software: 0.030"},"hash":"e9cee60513ca382d00"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029272999","type":"msg","lvl":"INFO","id":"0x2401","val":"SP2 Software: 2.2.8 / 0ba35d077eea (stable) tip"},"hash":"592308b3ba1645aa34"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029275499","type":"msg","lvl":"INFO","id":"0x2401","val":"System: s8.10.3cs9_BS2093"},"hash":"ec782d0f26f7f1caa2"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029278200","type":"msg","lvl":"INFO","id":"0x2401","val":"System CycleTime: 0.004s"},"hash":"c42cdd5fcde29d64c6"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029280700","type":"msg","lvl":"INFO","id":"0x2401","val":"System Date: Jun  2 2020"},"hash":"c953ebd42ed3e2c423"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029283299","type":"msg","lvl":"INFO","id":"0x2401","val":"System OS: Windows"},"hash":"0b339a672652fe110e"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.029285700","type":"msg","lvl":"INFO","id":"0x2401","val":"System Time: 14:37:05"},"hash":"cb31b65c32e613ae99"}
+{"entry":{"val":"New profile : %s.","data":[{"val":"default"}],"date":"2022-07-13T18:12:43","ts":"1.034204600","type":"key","lvl":"INFO","id":"0x2201"},"hash":"527b59407a6cce4e93"}
+{"entry":{"date":"2022-07-13T18:12:43","ts":"1.036251899","type":"msg","lvl":"INFO","id":"0x2401","val":"End of controller initialization"},"hash":"d9b0499fcedb8367ed"}
+{"entry":{"val":"Working mode : automatic.","date":"2022-07-13T18:12:43","ts":"1.085066199","type":"key","lvl":"INFO","id":"0x1801"},"hash":"6f10d7bb41451d55fd"}
+{"entry":{"val":"SP2 pendant is connected.","date":"2022-07-13T18:12:47","ts":"4.848681899","type":"key","lvl":"INFO","id":"0x2801"},"hash":"89fcd75430b8579865"}
+{"entry":{"val":"Saving controller context...","date":"2022-07-13T18:12:48","ts":"6.056977299","type":"key","lvl":"INFO","id":"0x5B01"},"hash":"1bfe8308de8cd70c05"}
+{"entry":{"val":"CPU temperature: %g degC","data":[{"val":50.000000000}],"date":"2022-07-13T18:12:48","ts":"6.061726500","type":"key","lvl":"INFO","id":"0x5B02"},"hash":"5b41e5d5980779d86e"}
+{"entry":{"val":"Baseboard temperature: %g degC","data":[{"val":40.000000000}],"date":"2022-07-13T18:12:48","ts":"6.061733300","type":"key","lvl":"INFO","id":"0x5B03"},"hash":"328c2d41f1b8c3bbe7"}
+{"entry":{"val":"CPU fan speed: %g RPM","data":[{"val":4000.000000000}],"date":"2022-07-13T18:12:48","ts":"6.061734399","type":"key","lvl":"INFO","id":"0x5B04"},"hash":"1834172f81e26214d5"}
+{"entry":{"val":"CPU Battery is OK","date":"2022-07-13T18:12:48","ts":"6.061738900","type":"key","lvl":"INFO","id":"0x5B05"},"hash":"c1fa6d4f6baf114e1f"}
+{"entry":{"val":"No CPU Overcurrent.","date":"2022-07-13T18:12:48","ts":"6.061740999","type":"key","lvl":"INFO","id":"0x5B07"},"hash":"5a60522d689b10396b"}
+{"entry":{"val":"Saving controller context...","date":"2022-07-13T18:15:21","ts":"159.277343600","type":"key","lvl":"INFO","id":"0x5B01"},"hash":"8e108a6b06e70dace2"}
+{"entry":{"date":"2022-07-15T11:40:48","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.119948800","type":"msg","lvl":"INFO","id":"0x0003","val":"Cycle time set to 0.004s"},"hash":"0dcc74173f63038e92"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.119959900","type":"msg","lvl":"INFO","id":"0x0003","val":"Simulation cycle time set to 0.01s"},"hash":"85a901188e68b69f05"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.119971199","type":"msg","lvl":"WARN","id":"0x0002","val":"Controller IP address could not be updated"},"hash":"9aafe1f1aebac14c61"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.119975399","type":"msg","lvl":"WARN","id":"0x0002","val":"Controller IP address 2 could not be updated"},"hash":"861f55f8a2d38d7507"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.122602399","type":"msg","lvl":"INFO","id":"0x0003","val":"Building simulated Hilscher IOs..."},"hash":"52d5633f20b274c2af"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.123179799","type":"msg","lvl":"WARN","id":"0x0002","val":"No Hilscher interface added"},"hash":"7b0cc8a946e9d63d95"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.125717599","type":"msg","lvl":"INFO","id":"0x0003","val":"(DEV) Build simulated calibration"},"hash":"37206e8e3de59276f0"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.128081900","type":"msg","lvl":"WARN","id":"0x0002","val":"No file describing the safety program structure found. The default structure will be used."},"hash":"33038dcc8e3574990b"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.130671099","type":"msg","lvl":"WARN","id":"0x0002","val":"No safe speed monitoring simulation file found."},"hash":"a8bef1e7ca2f738bce"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.130898999","type":"msg","lvl":"WARN","id":"0x0002","val":"Default user payload used."},"hash":"659abe6d1514f6ba80"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.130918699","type":"msg","lvl":"INFO","id":"0x0003","val":"Payload default: mass=6 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.016 yy=0.013 zz=0.011 kg.m^2"},"hash":"e5e063942bcbf21142"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.131012900","type":"msg","lvl":"INFO","id":"0x0003","val":"Build Cell Done"},"hash":"7e24813ada3a421650"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.139860999","type":"msg","lvl":"INFO","id":"0x2401","val":"Compteur puissance = 2:32:20"},"hash":"85d20c64ba9543a054"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.139917299","type":"msg","lvl":"INFO","id":"0x2401","val":"Adresse Mac = 68-05-ca-00-c6-78 (J204)"},"hash":"302af8e5cb294dcb9b"}
+{"entry":{"val":"End of arm power shutdown phase.","date":"2022-07-15T11:40:49","ts":"0.536006799","type":"key","lvl":"INFO","id":"0x1602"},"hash":"6dba139739e96f1489"}
+{"entry":{"val":"Safety board status changed to %s.","data":[{"val":"STATUS_RUNNING"}],"date":"2022-07-15T11:40:49","ts":"0.536076100","type":"key","lvl":"INFO","id":"0x5909"},"hash":"397f9ea64321bdbf01"}
+{"entry":{"val":"Safety board ready.","date":"2022-07-15T11:40:49","ts":"0.536077800","type":"key","lvl":"INFO","id":"0x5901"},"hash":"1ade106d2bf20ba5be"}
+{"entry":{"val":"Refresh position started for all axes.","date":"2022-07-15T11:40:49","ts":"0.548800399","type":"key","lvl":"INFO","id":"0x151D"},"hash":"270e7c496f172e161e"}
+{"entry":{"val":"Refresh position succeeded.","date":"2022-07-15T11:40:49","ts":"0.564397699","type":"key","lvl":"INFO","id":"0x151E"},"hash":"09e4ba212a3060a45d"}
+{"entry":{"val":"Robot joint position at boot: %s","data":[{"val":"?, ?, ?, ?, ?, ?"}],"date":"2022-07-15T11:40:49","ts":"0.564406000","type":"key","lvl":"INFO","id":"0x3F33"},"hash":"adee825fb536e88752"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"0.568828000","type":"msg","lvl":"INFO","id":"0x0003","val":"COM-PC: server created on all interfaces [851]"},"hash":"4b59b7011d53ce2967"}
+{"entry":{"val":"REST server created [%d].","data":[{"val":852}],"date":"2022-07-15T11:40:49","ts":"1.043596900","type":"key","lvl":"INFO","id":"0x7801"},"hash":"55aee3f64adef58704"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043933400","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Mounting: floor"},"hash":"61d3d823dc15e3fa67"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043936600","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Name: ?"},"hash":"52faf9f95d55d689ea"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043938300","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm OilType: ?"},"hash":"26d71986ae974ca301"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043944299","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm S/N: ?"},"hash":"8106cdc6df0f7dc06e"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043947399","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Tuning: R1-V1"},"hash":"a40c7454d2017e4c90"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043950100","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Type: tx2touch_90-S3"},"hash":"6ef828d4770ffddc12"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043952899","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Version: tx2touch_90-S3-R1-V1"},"hash":"d7e6d7eb64d42519a8"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043955899","type":"msg","lvl":"INFO","id":"0x2401","val":"CFAST P/N: DXXXXXXXX"},"hash":"2acf237882f096e8f7"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043958999","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Hardware revision: 0"},"hash":"8a2c6a09190e78099e"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043961700","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Name: NA"},"hash":"1170052e6dbb6f1de8"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043964000","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT O/N: 0"},"hash":"736bca1c273eb101cb"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043966700","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT P/N: DXXXXXXXX"},"hash":"1a7f335dd343daca6f"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043968799","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT S/N: 0"},"hash":"3ec7fcc2b00252e9d0"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043972100","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU Board: TEKNOR 3696MHz; 32768MB RAM; ?MB disk"},"hash":"9455d7b09423ed942d"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043974600","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL BIOS: ?"},"hash":"5049db9ad32648d0b5"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043976900","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL FPGA: ?"},"hash":"ecd48ecb7596a4834a"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043979799","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL Hardware revision: 0"},"hash":"5ce1404e499e5e5961"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043982299","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL MMI: ?"},"hash":"d71cd09e5b348c4448"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043984699","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL O/N: 0"},"hash":"eae6926603c640b96c"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043986800","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL S/N: 0"},"hash":"3a88eb5094e5a540c7"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043989300","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL SDK: NA"},"hash":"d7e3303d265e3dfb02"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043991999","type":"msg","lvl":"INFO","id":"0x2401","val":"CS9Logical P/N: DXXXXXXXX"},"hash":"6d36c08608b4f27115"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043994999","type":"msg","lvl":"INFO","id":"0x2401","val":"Configuration Version: c2.034"},"hash":"332cde3191454e4876"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.043997599","type":"msg","lvl":"INFO","id":"0x2401","val":"Controller S/N: ?"},"hash":"4eeffe3d2768db0632"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044000099","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Firmware: 0.1.1.66"},"hash":"895d779399e0ecfe93"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044002900","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Name: D3-SMM 362/A-0250-00"},"hash":"7944a950b741f77f20"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044005300","type":"msg","lvl":"INFO","id":"0x2401","val":"Option VAL 3: enabled"},"hash":"e041c0a08fd015ade9"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044008500","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC Configuration: ?"},"hash":"3f13d8f39cae531a22"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044010900","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC Name: ?"},"hash":"294234574f289922d4"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044013400","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC System: ?"},"hash":"d3b26d29e4907813f6"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044016300","type":"msg","lvl":"INFO","id":"0x2401","val":"PowerSupply Name: URPS 9.1 325VDC 3P"},"hash":"2cca420cd36aa4c71a"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044018999","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Date: Jun  2 2020"},"hash":"5f8067418b8aa9b609"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044021699","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Time: 14:34:49"},"hash":"d8a1c3f2cbe251ff7b"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044024400","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Version: s8.10.3cs9_BS2093"},"hash":"e6739518a247218ac6"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044027400","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Configuration CRC: 169788671"},"hash":"590e9397f530c5c359"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044029699","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Firmware: 2.0.0.3"},"hash":"fa97d7d8143e960a4b"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044033600","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Program CRC: 450852226"},"hash":"9a53c7b9fce6698ecb"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044036399","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Software: 0.030"},"hash":"f96c79bd88043b9f79"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044039100","type":"msg","lvl":"INFO","id":"0x2401","val":"SP2 Software: 2.2.8 / 0ba35d077eea (stable) tip"},"hash":"2943c45d48b59e7ee1"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044041600","type":"msg","lvl":"INFO","id":"0x2401","val":"System: s8.10.3cs9_BS2093"},"hash":"06b7f02caf9b480c2d"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044044399","type":"msg","lvl":"INFO","id":"0x2401","val":"System CycleTime: 0.004s"},"hash":"5b2b56694ff18830ad"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044046899","type":"msg","lvl":"INFO","id":"0x2401","val":"System Date: Jun  2 2020"},"hash":"3227c01807059c01d5"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044049699","type":"msg","lvl":"INFO","id":"0x2401","val":"System OS: Windows"},"hash":"e54df5e4f1f50dd278"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.044052299","type":"msg","lvl":"INFO","id":"0x2401","val":"System Time: 14:37:05"},"hash":"90a24df1d4041bcb27"}
+{"entry":{"val":"New profile : %s.","data":[{"val":"default"}],"date":"2022-07-15T11:40:49","ts":"1.049649399","type":"key","lvl":"INFO","id":"0x2201"},"hash":"ce39cff57ce2c0f66d"}
+{"entry":{"date":"2022-07-15T11:40:49","ts":"1.052483000","type":"msg","lvl":"INFO","id":"0x2401","val":"End of controller initialization"},"hash":"6aad2b871d12ddd4fe"}
+{"entry":{"val":"Working mode : automatic.","date":"2022-07-15T11:40:49","ts":"1.095142999","type":"key","lvl":"INFO","id":"0x1801"},"hash":"707f7de10d1d2398f4"}
+{"entry":{"val":"SP2 pendant is connected.","date":"2022-07-15T11:40:53","ts":"4.828742200","type":"key","lvl":"INFO","id":"0x2801"},"hash":"ef1fde43b7b54dc77c"}
+{"entry":{"val":"Saving controller context...","date":"2022-07-15T11:40:54","ts":"6.072170299","type":"key","lvl":"INFO","id":"0x5B01"},"hash":"54f836f5443d784521"}
+{"entry":{"val":"CPU temperature: %g degC","data":[{"val":50.000000000}],"date":"2022-07-15T11:40:54","ts":"6.077895399","type":"key","lvl":"INFO","id":"0x5B02"},"hash":"e3bd256a6f35b9aa0d"}
+{"entry":{"val":"Baseboard temperature: %g degC","data":[{"val":40.000000000}],"date":"2022-07-15T11:40:54","ts":"6.077899199","type":"key","lvl":"INFO","id":"0x5B03"},"hash":"ec6d43c1150a590113"}
+{"entry":{"val":"CPU fan speed: %g RPM","data":[{"val":4000.000000000}],"date":"2022-07-15T11:40:54","ts":"6.077900199","type":"key","lvl":"INFO","id":"0x5B04"},"hash":"220763306b4f9e7a6a"}
+{"entry":{"val":"CPU Battery is OK","date":"2022-07-15T11:40:54","ts":"6.077904800","type":"key","lvl":"INFO","id":"0x5B05"},"hash":"150f830b8a0e51d55c"}
+{"entry":{"val":"No CPU Overcurrent.","date":"2022-07-15T11:40:54","ts":"6.077906999","type":"key","lvl":"INFO","id":"0x5B07"},"hash":"58ac04242b3714033b"}
+{"entry":{"date":"2022-07-15T11:41:17","ts":"28.409713799","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 50406 id=#1"},"hash":"3bb136a3ac18518c47"}
+{"entry":{"date":"2022-07-15T11:42:49","ts":"120.201514899","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 50506 id=#2"},"hash":"9eb1d99e1d95069698"}
+{"entry":{"date":"2022-07-15T11:42:49","ts":"120.242640200","type":"msg","lvl":"INFO","id":"0x2401","val":"COM-PC: start WCF Client on '127.0.0.1:851'"},"hash":"04753f94d56ebdd2df"}
+{"entry":{"date":"2022-07-15T11:42:49","ts":"120.243159499","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-CLIENT: Connected to http://127.0.0.1:5656"},"hash":"d6047583a3ef76c49a"}
+{"entry":{"date":"2022-07-15T11:42:49","ts":"120.717994700","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 50506 id=#2"},"hash":"40240bd46d4be7e880"}
+{"entry":{"date":"2022-07-15T11:54:57","ts":"848.763533300","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 50406 id=#1"},"hash":"575e3e258bedee1da3"}
+{"entry":{"date":"2022-07-15T17:36:35","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.093977300","type":"msg","lvl":"INFO","id":"0x0003","val":"Cycle time set to 0.004s"},"hash":"eb454de0fbe5fe5c87"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.093988100","type":"msg","lvl":"INFO","id":"0x0003","val":"Simulation cycle time set to 0.01s"},"hash":"a082fc83da6685e3a9"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.093998600","type":"msg","lvl":"WARN","id":"0x0002","val":"Controller IP address could not be updated"},"hash":"f43205e7d6219cee19"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.094002600","type":"msg","lvl":"WARN","id":"0x0002","val":"Controller IP address 2 could not be updated"},"hash":"bef589f21dab3194b7"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.095147800","type":"msg","lvl":"INFO","id":"0x0003","val":"Building simulated Hilscher IOs..."},"hash":"59daa2263b1842fa62"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.095358900","type":"msg","lvl":"WARN","id":"0x0002","val":"No Hilscher interface added"},"hash":"9a1bc1dac9d0d489dc"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.096924200","type":"msg","lvl":"INFO","id":"0x0003","val":"(DEV) Build simulated calibration"},"hash":"ddbb4761eaa3cf0ecf"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.097202200","type":"msg","lvl":"WARN","id":"0x0002","val":"No file describing the safety program structure found. The default structure will be used."},"hash":"f3bf1b7b3e44e6df10"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.097344699","type":"msg","lvl":"WARN","id":"0x0002","val":"No safe speed monitoring simulation file found."},"hash":"13ffb91512fea6792b"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.097513500","type":"msg","lvl":"WARN","id":"0x0002","val":"Default user payload used."},"hash":"80d77b63e79b27594a"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.097531300","type":"msg","lvl":"INFO","id":"0x0003","val":"Payload default: mass=6 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.016 yy=0.013 zz=0.011 kg.m^2"},"hash":"2dc85cb95bbe3f00e2"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.097623100","type":"msg","lvl":"INFO","id":"0x0003","val":"Build Cell Done"},"hash":"aa7025c3ee004e888b"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.099726100","type":"msg","lvl":"INFO","id":"0x2401","val":"Compteur puissance = 2:32:20"},"hash":"384f90a3b917f2df4f"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.099780600","type":"msg","lvl":"INFO","id":"0x2401","val":"Adresse Mac = 68-05-ca-00-c6-78 (J204)"},"hash":"af20ee772ef993dbfd"}
+{"entry":{"val":"End of arm power shutdown phase.","date":"2022-07-15T17:36:35","ts":"0.116143800","type":"key","lvl":"INFO","id":"0x1602"},"hash":"ff245bb8993329d2ca"}
+{"entry":{"val":"Safety board status changed to %s.","data":[{"val":"STATUS_RUNNING"}],"date":"2022-07-15T17:36:35","ts":"0.116207300","type":"key","lvl":"INFO","id":"0x5909"},"hash":"f5fd29606c75f68e8a"}
+{"entry":{"val":"Safety board ready.","date":"2022-07-15T17:36:35","ts":"0.116208600","type":"key","lvl":"INFO","id":"0x5901"},"hash":"287df8da8a10c34b8d"}
+{"entry":{"val":"Refresh position started for all axes.","date":"2022-07-15T17:36:35","ts":"0.129246200","type":"key","lvl":"INFO","id":"0x151D"},"hash":"09383992b4aa5e2f8a"}
+{"entry":{"val":"Refresh position succeeded.","date":"2022-07-15T17:36:35","ts":"0.144954300","type":"key","lvl":"INFO","id":"0x151E"},"hash":"7139495930bb5b58a1"}
+{"entry":{"val":"Robot joint position at boot: %s","data":[{"val":"?, ?, ?, ?, ?, ?"}],"date":"2022-07-15T17:36:35","ts":"0.144959500","type":"key","lvl":"INFO","id":"0x3F33"},"hash":"2e3902cc116eb25c94"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.149251500","type":"msg","lvl":"INFO","id":"0x0003","val":"COM-PC: server created on all interfaces [851]"},"hash":"817e6744c9d463b921"}
+{"entry":{"val":"REST server created [%d].","data":[{"val":852}],"date":"2022-07-15T17:36:35","ts":"0.156498700","type":"key","lvl":"INFO","id":"0x7801"},"hash":"0eed7ee77b523e276c"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156811400","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Mounting: floor"},"hash":"8416fde2b6b57016fb"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156814699","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Name: ?"},"hash":"8c9e62efb000b3f538"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156816500","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm OilType: ?"},"hash":"4c944e74417f43b09b"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156821900","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm S/N: ?"},"hash":"3c218e5efb36fc5d3c"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156824800","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Tuning: R1-V1"},"hash":"d459e7f7822c14d498"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156827700","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Type: tx2touch_90-S3"},"hash":"3e7de3d25ed1059de9"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156830600","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Version: tx2touch_90-S3-R1-V1"},"hash":"c59842f7818bf631a4"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156833500","type":"msg","lvl":"INFO","id":"0x2401","val":"CFAST P/N: DXXXXXXXX"},"hash":"e1e9dbb76a20afba91"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156836900","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Hardware revision: 0"},"hash":"9bc62cadcba2d66440"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156839500","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Name: NA"},"hash":"3f55fda98e04431c5d"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156841700","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT O/N: 0"},"hash":"52894e9a942ebd2b83"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156844300","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT P/N: DXXXXXXXX"},"hash":"5f8c5e7c16cc5c4b1f"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156846500","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT S/N: 0"},"hash":"4e837ce2b03e2a252d"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156849700","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU Board: TEKNOR 3696MHz; 32768MB RAM; ?MB disk"},"hash":"01387baae6a0d8c4f3"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156852000","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL BIOS: ?"},"hash":"0a1c0a32aea9e8ab47"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156854200","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL FPGA: ?"},"hash":"4ae154271c8e48baa1"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156856900","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL Hardware revision: 0"},"hash":"14f0f37df9d1173930"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156859300","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL MMI: ?"},"hash":"c873072195a4685b4e"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156861600","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL O/N: 0"},"hash":"7b8e43540b085daaad"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156863600","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL S/N: 0"},"hash":"0516fc6677e06ae7c9"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156866100","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL SDK: NA"},"hash":"4b3716e934b305d92f"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156868699","type":"msg","lvl":"INFO","id":"0x2401","val":"CS9Logical P/N: DXXXXXXXX"},"hash":"bb8c7a097ed1e923a8"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156872800","type":"msg","lvl":"INFO","id":"0x2401","val":"Configuration Version: c2.034"},"hash":"45e8e2498d078fed9f"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156875200","type":"msg","lvl":"INFO","id":"0x2401","val":"Controller S/N: ?"},"hash":"966fd8ef84414a0f27"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156877700","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Firmware: 0.1.1.66"},"hash":"002969cc943d475bef"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156880300","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Name: D3-SMM 362/A-0250-00"},"hash":"b46ad7d24b01679358"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156882700","type":"msg","lvl":"INFO","id":"0x2401","val":"Option VAL 3: enabled"},"hash":"2d1636403f36b698c8"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156887799","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC Configuration: ?"},"hash":"63effca6cf9e85bf28"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156890199","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC Name: ?"},"hash":"5cf58341e90e6aed99"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156892599","type":"msg","lvl":"INFO","id":"0x2401","val":"PCC System: ?"},"hash":"77d9a8ec1206115b4a"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156895600","type":"msg","lvl":"INFO","id":"0x2401","val":"PowerSupply Name: URPS 9.1 325VDC 3P"},"hash":"d9bf43e962f9cb78b1"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156898299","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Date: Jun  2 2020"},"hash":"d26ab9f9b5cc436af7"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156900900","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Time: 14:34:49"},"hash":"d305c4bb79fce815f8"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156903600","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Version: s8.10.3cs9_BS2093"},"hash":"d90888a9eb9d88bc7e"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156906300","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Configuration CRC: 169788671"},"hash":"729884880477d29029"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156908600","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Firmware: 2.0.0.3"},"hash":"359b3618d48ede82fe"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156911199","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Program CRC: 450852226"},"hash":"180679e08ef84a48e6"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156913800","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Software: 0.030"},"hash":"022515dde7a3bee3cc"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156916600","type":"msg","lvl":"INFO","id":"0x2401","val":"SP2 Software: 2.2.8 / 0ba35d077eea (stable) tip"},"hash":"0eb984abe2d80d5eda"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156919100","type":"msg","lvl":"INFO","id":"0x2401","val":"System: s8.10.3cs9_BS2093"},"hash":"6ff53d6ba30a40e46f"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156921800","type":"msg","lvl":"INFO","id":"0x2401","val":"System CycleTime: 0.004s"},"hash":"946678c00b087d429e"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156924300","type":"msg","lvl":"INFO","id":"0x2401","val":"System Date: Jun  2 2020"},"hash":"6a42290fe3f5d073b3"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156926600","type":"msg","lvl":"INFO","id":"0x2401","val":"System OS: Windows"},"hash":"e301772229519977ed"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.156929000","type":"msg","lvl":"INFO","id":"0x2401","val":"System Time: 14:37:05"},"hash":"edd45d161b2cea9570"}
+{"entry":{"val":"New profile : %s.","data":[{"val":"default"}],"date":"2022-07-15T17:36:35","ts":"0.157271700","type":"key","lvl":"INFO","id":"0x2201"},"hash":"574385e74d9fe986af"}
+{"entry":{"date":"2022-07-15T17:36:35","ts":"0.159096000","type":"msg","lvl":"INFO","id":"0x2401","val":"End of controller initialization"},"hash":"118643428b375c2159"}
+{"entry":{"val":"Working mode : automatic.","date":"2022-07-15T17:36:35","ts":"0.209124600","type":"key","lvl":"INFO","id":"0x1801"},"hash":"ffee3677a7fc00649a"}
+{"entry":{"val":"SP2 pendant is connected.","date":"2022-07-15T17:36:39","ts":"3.929102800","type":"key","lvl":"INFO","id":"0x2801"},"hash":"730bc4687b9d1cf08f"}
+{"entry":{"date":"2022-07-15T17:36:41","ts":"6.153693100","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 127.0.0.1 on port 58000 id=#1"},"hash":"6840b8a83a24a5252d"}
+{"entry":{"date":"2022-07-15T17:37:01","ts":"25.952350600","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 127.0.0.1 on port 58000 id=#1"},"hash":"bf2ede4deaab55ef7e"}

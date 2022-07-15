@@ -1,50 +1,50 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
-  <Program name="InitInterface">
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="InitInterface" access="private" >
     <Code><![CDATA[begin
   //Open Interface
   userPage("InterfaceRobot")
-  
+
   //Position Labels Bindings
-  userPageBind("InterfaceRobot", "lblXValue", "innerHTML", pCurrentPosition.trsf.x, 1, "r")
-  userPageBind("InterfaceRobot", "lblYValue", "innerHTML", pCurrentPosition.trsf.y, 1, "r")
-  userPageBind("InterfaceRobot", "lblZValue", "innerHTML", pCurrentPosition.trsf.z, 1, "r")
-  userPageBind("InterfaceRobot", "lblRXValue", "innerHTML", pCurrentPosition.trsf.rx, 1, "r")
-  userPageBind("InterfaceRobot", "lblRYValue", "innerHTML", pCurrentPosition.trsf.ry, 1, "r")
-  userPageBind("InterfaceRobot", "lblRZValue", "innerHTML", pCurrentPosition.trsf.rz, 1, "r")
-  
+  userPageBind("InterfaceRobot","lblXValue","innerHTML",pCurrentPosition.trsf.x,1,"r")
+  userPageBind("InterfaceRobot","lblYValue","innerHTML",pCurrentPosition.trsf.y,1,"r")
+  userPageBind("InterfaceRobot","lblZValue","innerHTML",pCurrentPosition.trsf.z,1,"r")
+  userPageBind("InterfaceRobot","lblRXValue","innerHTML",pCurrentPosition.trsf.rx,1,"r")
+  userPageBind("InterfaceRobot","lblRYValue","innerHTML",pCurrentPosition.trsf.ry,1,"r")
+  userPageBind("InterfaceRobot","lblRZValue","innerHTML",pCurrentPosition.trsf.rz,1,"r")
+
   //Position Error Labels Bindings
-  userPageBind("InterfaceRobot", "lblJ1_errValue", "innerHTML", jCurrentJointError.j1, 1, "r")
-  userPageBind("InterfaceRobot", "lblJ2_errValue", "innerHTML", jCurrentJointError.j2, 1, "r")
-  userPageBind("InterfaceRobot", "lblJ3_errValue", "innerHTML", jCurrentJointError.j3, 1, "r")
-  userPageBind("InterfaceRobot", "lblJ4_errValue", "innerHTML", jCurrentJointError.j4, 1, "r")
-  userPageBind("InterfaceRobot", "lblJ5_errValue", "innerHTML", jCurrentJointError.j5, 1, "r")
-  userPageBind("InterfaceRobot", "lblJ6_errValue", "innerHTML", jCurrentJointError.j6, 1, "r")
-  
+  userPageBind("InterfaceRobot","lblJ1_errValue","innerHTML",jCurrentJointError.j1,1,"r")
+  userPageBind("InterfaceRobot","lblJ2_errValue","innerHTML",jCurrentJointError.j2,1,"r")
+  userPageBind("InterfaceRobot","lblJ3_errValue","innerHTML",jCurrentJointError.j3,1,"r")
+  userPageBind("InterfaceRobot","lblJ4_errValue","innerHTML",jCurrentJointError.j4,1,"r")
+  userPageBind("InterfaceRobot","lblJ5_errValue","innerHTML",jCurrentJointError.j5,1,"r")
+  userPageBind("InterfaceRobot","lblJ6_errValue","innerHTML",jCurrentJointError.j6,1,"r")
+
   //Range Number Gauge Bindings : Values
-  userPageBind("InterfaceRobot", "rngX", "value", pCurrentPosition.trsf.x, 1, "r")
-  userPageBind("InterfaceRobot", "rngY", "value", pCurrentPosition.trsf.y, 1, "r")
-  userPageBind("InterfaceRobot", "rngZ", "value", pCurrentPosition.trsf.z, 1, "r")
-  userPageBind("InterfaceRobot", "rngRX", "value", pCurrentPosition.trsf.rx, 1, "r")
-  userPageBind("InterfaceRobot", "rngRY", "value", pCurrentPosition.trsf.ry, 1, "r")
-  userPageBind("InterfaceRobot", "rngRZ", "value", pCurrentPosition.trsf.rz, 1, "r")
-  
+  userPageBind("InterfaceRobot","rngX","value",pCurrentPosition.trsf.x,1,"r")
+  userPageBind("InterfaceRobot","rngY","value",pCurrentPosition.trsf.y,1,"r")
+  userPageBind("InterfaceRobot","rngZ","value",pCurrentPosition.trsf.z,1,"r")
+  userPageBind("InterfaceRobot","rngRX","value",pCurrentPosition.trsf.rx,1,"r")
+  userPageBind("InterfaceRobot","rngRY","value",pCurrentPosition.trsf.ry,1,"r")
+  userPageBind("InterfaceRobot","rngRZ","value",pCurrentPosition.trsf.rz,1,"r")
+
   //Range Number Gauge Bindings : Low Limits
-  userPageBind("InterfaceRobot", "rngX", "min", nMinHorizontal, 1, "r")
-  userPageBind("InterfaceRobot", "rngY", "min", nMinHorizontal, 1, "r")
-  userPageBind("InterfaceRobot", "rngZ", "min", nMinVertical, 1, "r")
-  userPageBind("InterfaceRobot", "rngRX", "min", nMinRotation, 1, "r")
-  userPageBind("InterfaceRobot", "rngRY", "min", nMinRotation, 1, "r")
-  userPageBind("InterfaceRobot", "rngRZ", "min", nMinRotation, 1, "r")
-  
+  userPageBind("InterfaceRobot","rngX","min",nMinHorizontal,1,"r")
+  userPageBind("InterfaceRobot","rngY","min",nMinHorizontal,1,"r")
+  userPageBind("InterfaceRobot","rngZ","min",nMinVertical,1,"r")
+  userPageBind("InterfaceRobot","rngRX","min",nMinRotation,1,"r")
+  userPageBind("InterfaceRobot","rngRY","min",nMinRotation,1,"r")
+  userPageBind("InterfaceRobot","rngRZ","min",nMinRotation,1,"r")
+
   //Range Number Gauge Bindings : High Limits
-  userPageBind("InterfaceRobot", "rngX", "max", nMaxHorizontal, 1, "r")
-  userPageBind("InterfaceRobot", "rngY", "max", nMaxHorizontal, 1, "r")
-  userPageBind("InterfaceRobot", "rngZ", "max", nMaxVertical, 1, "r")
-  userPageBind("InterfaceRobot", "rngRX", "max", nMaxRotation, 1, "r")
-  userPageBind("InterfaceRobot", "rngRY", "max", nMaxRotation, 1, "r")
-  userPageBind("InterfaceRobot", "rngRZ", "max", nMaxRotation, 1, "r")
-  
+  userPageBind("InterfaceRobot","rngX","max",nMaxHorizontal,1,"r")
+  userPageBind("InterfaceRobot","rngY","max",nMaxHorizontal,1,"r")
+  userPageBind("InterfaceRobot","rngZ","max",nMaxVertical,1,"r")
+  userPageBind("InterfaceRobot","rngRX","max",nMaxRotation,1,"r")
+  userPageBind("InterfaceRobot","rngRY","max",nMaxRotation,1,"r")
+  userPageBind("InterfaceRobot","rngRZ","max",nMaxRotation,1,"r")
+
 end]]></Code>
   </Program>
 </Programs>
