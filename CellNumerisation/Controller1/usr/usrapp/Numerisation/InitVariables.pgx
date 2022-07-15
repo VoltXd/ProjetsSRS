@@ -1,38 +1,38 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
-  <Program name="InitVariables" access="private" >
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="InitVariables">
     <Code><![CDATA[begin
-  bAcquisitionStarted=false
-  nReceivedByte=0
-
+  bAcquisitionStarted = false
+  nReceivedByte = 0
+  
   //Dimensions balayage simple
-  nScanningLength=200
-  nScanningWidth=200
-  nScanningLineNumber=20
-
+  nScanningLength = 200
+  nScanningWidth = 200
+  nScanningLineNumber = 20
+  
   //Limites Ref. Cartésien (utiles pour affichage interface graphique)
-  nMinHorizontal=-1000
-  nMaxHorizontal=1000
-  nMinVertical=-883.44
-  nMaxVertical=950
-  nMinRotation=-180
-  nMaxRotation=180
-
+  nMinHorizontal = -1000
+  nMaxHorizontal = 1000
+  nMinVertical = -883.44
+  nMaxVertical = 950
+  nMinRotation = -180
+  nMaxRotation = 180
+  
 
   //Position initiale du robot
-  jRobotZeroPosition={0,0,0,0,0,90}
-  pRobotZeroPosition={{50,50,950,0,0,0},{sfree,efree,wfree}}
-
+  jRobotZeroPosition = {0, 0, 0, 0, 0, 90}
+  pRobotZeroPosition = {{50, 50, 950, 0, 0, 0}, {sfree, efree, wfree}}
+  
   //Position initiale de numérisation
-  jInitialPosition={0,37.32,99.65,0,43.03,0}
-  pInitialPosition={{597.67,50,-72.68,-180,0,-180},{sfree,efree,wfree}}
-
-  jInitialPositionRepos={0,28.35,97.17,0,54.5,0}
-  pInitialPositionRepos={{597.67,50,27.32,-180,0,-180},{sfree,efree,wfree}}
-
+  jInitialPosition = {0, 37.32, 99.65, 0, 43.03 ,0}
+  pInitialPosition = {{597.67, 50, -72.68, -180, 0, -180}, {sfree, efree, wfree}}
+  
+  jInitialPositionRepos = {0, 28.35, 97.17, 0, 54.50, 0}
+  pInitialPositionRepos = {{597.67, 50, 27.32,-180,0,-180}, {sfree, efree, wfree}}
+  
   //Position intermédiaire du cercle
-  pCircle=pInitialPosition
-  pCircle.trsf.x=pCircle.trsf.x-nScanningLength/2
+  pCircle = pInitialPosition
+  pCircle.trsf.x = pCircle.trsf.x - nScanningLength/2
 end]]></Code>
   </Program>
 </Programs>

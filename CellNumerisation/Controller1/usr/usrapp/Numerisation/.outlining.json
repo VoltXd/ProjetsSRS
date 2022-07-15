@@ -13,22 +13,6 @@
     },
     {
       "mode": 3,
-      "name": "BalayageSimple",
-      "nodes": [
-        {
-          "start": 98,
-          "end": 143,
-          "isCollapsed": false
-        },
-        {
-          "start": 186,
-          "end": 672,
-          "isCollapsed": false
-        }
-      ]
-    },
-    {
-      "mode": 3,
       "name": "Communication",
       "nodes": [
         {
@@ -83,6 +67,22 @@
       "mode": 3,
       "name": "InitVariables",
       "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "BalayageSimple",
+      "nodes": [
+        {
+          "start": 98,
+          "end": 143,
+          "isCollapsed": false
+        },
+        {
+          "start": 186,
+          "end": 672,
+          "isCollapsed": false
+        }
+      ]
     }
   ]
 }
